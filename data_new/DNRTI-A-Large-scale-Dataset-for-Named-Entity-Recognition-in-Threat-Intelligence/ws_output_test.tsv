@@ -1,0 +1,2345 @@
+word	pos_tag	word_shape	label
+Kaspersky	PROPN	InitCap	SecTeam
+Shamoon	NOUN	InitCap	HackOrg
+StoneDrill	VERB	mixedCaps	HackOrg
+Kaspersky	PROPN	InitCap	SecTeam
+BlueNoroff	PROPN	mixedCaps	HackOrg
+Eset‍	PROPN	InitCap	SecTeam
+Russian	ADJ	InitCap	Area
+turla	PROPN	lowercase	HackOrg
+Eset	VERB	InitCap	SecTeam
+Turla	PROPN	InitCap	HackOrg
+NewsBeef	PROPN	mixedCaps	HackOrg
+Kaspersky	PROPN	InitCap	SecTeam
+SA	PROPN	ALLCAPS	Area
+Vixen Panda	NOUN	InitCap	HackOrg
+COMMENT PANDA	NOUN	ALLCAPS	HackOrg
+European	ADJ	InitCap	Area
+CrowdStrike	PROPN	mixedCaps	SecTeam
+PUTTER PANDA group	PROPN	ALLCAPS	HackOrg
+Unit 61486	NOUN	InitCap	HackOrg
+Shanghai	PROPN	InitCap	Area
+China	PROPN	InitCap	Area
+RATs	PROPN	mixedCaps	Tool
+PUTTER PANDA	PROPN	ALLCAPS	HackOrg
+4H RAT	NOUN	mixed	Tool
+3PARA RAT	NOUN	mixed	Tool
+CrowdStrike	PROPN	mixedCaps	SecTeam
+CrowdStrike Intelligence	PROPN	mixedCaps	SecTeam
+PUTTER PANDA	PROPN	ALLCAPS	HackOrg
+pngdowner	PROPN	lowercase	Tool
+httpclient	NOUN	lowercase	Tool
+CrowdStrike	PROPN	mixedCaps	SecTeam
+dropper	NOUN	lowercase	Tool
+PUTTER PANDA	PROPN	ALLCAPS	HackOrg
+4H RAT	NOUN	mixed	Tool
+dropper	NOUN	lowercase	Tool
+RC4	NOUN	mixed	Tool
+Word document	NOUN	InitCap	SamFile
+Bienvenue_a_Sahaja_Yoga_Toulouse.doc	PROPN	mixedCaps	SamFile
+Update.exe	PROPN	InitCap	SamFile
+McUpdate.dll	PROPN	mixedCaps	SamFile
+PUTTER PANDA	PROPN	ALLCAPS	HackOrg
+group	NOUN	lowercase	HackOrg
+intelligence-gathering	NOUN	lowercase	Purp
+space sector	NOUN	lowercase	Org
+PUTTER PANDA	PROPN	ALLCAPS	HackOrg
+operators	NOUN	lowercase	HackOrg
+People 's Liberation Army	NOUN	InitCap	Idus
+PLA	PROPN	ALLCAPS	Idus
+Shanghai	PROPN	InitCap	Area
+MUCD 61486	PROPN	ALLCAPS	HackOrg
+PUTTER PANDA	PROPN	ALLCAPS	HackOrg
+Western	ADJ	InitCap	Area
+intellectual property	ADJ	lowercase	Purp
+Mandiant	NOUN	InitCap	SecTeam
+APT1	NOUN	mixed	HackOrg
+private security companies	ADJ	lowercase	Org
+threat actors	NOUN	lowercase	HackOrg
+Mandianta	NOUN	InitCap	SecTeam
+APT1	NOUN	mixed	HackOrg
+private security companies	ADJ	lowercase	Org
+threat actors	NOUN	lowercase	HackOrg
+2014	NOUN	numeric	Time
+Crowdstrike	NOUN	InitCap	SecTeam
+Chinese	ADJ	InitCap	Area
+APT threat group	PROPN	ALLCAPS	HackOrg
+Putter Panda	PROPN	InitCap	HackOrg
+Mandiant	NOUN	InitCap	SecTeam
+FireEye	PROPN	mixedCaps	SecTeam
+APT2	NOUN	mixed	HackOrg
+2014	NOUN	numeric	Time
+Crowdstrike	NOUN	InitCap	SecTeam
+Chinese	ADJ	InitCap	Area
+APT threat group	PROPN	ALLCAPS	HackOrg
+Putter Panda	PROPN	InitCap	HackOrg
+Mandiant	NOUN	InitCap	SecTeam
+FireEye	PROPN	mixedCaps	SecTeam
+APT2	NOUN	mixed	HackOrg
+threat group	NOUN	lowercase	HackOrg
+defense contractors	NOUN	lowercase	Org
+aerospace companies	NOUN	lowercase	Org
+CVE-2012-0158	NOUN	mixed	Exp
+Unit 42	NOUN	InitCap	SecTeam
+group	NOUN	lowercase	HackOrg
+RANCOR	PROPN	ALLCAPS	HackOrg
+Rancor group	NOUN	InitCap	HackOrg
+attacks	NOUN	lowercase	OffAct
+DDKONG	PROPN	ALLCAPS	Tool
+PLAINTEE	NOUN	ALLCAPS	Tool
+decoy files	VERB	lowercase	SamFile
+attacks	NOUN	lowercase	OffAct
+spear phishing messages	PROPN	lowercase	Way
+Rancor	NOUN	InitCap	HackOrg
+attackers	NOUN	lowercase	HackOrg
+political entities	ADJ	lowercase	Org
+decoy documents	VERB	lowercase	SamFile
+Cambodia Government	PROPN	InitCap	Org
+Facebook	NOUN	InitCap	Org
+attacks	NOUN	lowercase	OffAct
+South East Asia	ADJ	InitCap	Area
+DDKONG	PROPN	ALLCAPS	Tool
+February 2017	PROPN	InitCap	Time
+PLAINTEE	NOUN	ALLCAPS	Tool
+October 2017	PROPN	InitCap	Time
+RANCOR campaign	PROPN	ALLCAPS	OffAct
+targeted attacks	VERB	lowercase	OffAct
+South East Asia	ADJ	InitCap	Area
+Russia	PROPN	InitCap	Area
+group	NOUN	lowercase	HackOrg
+businesses	NOUN	lowercase	Idus
+RTM	PROPN	ALLCAPS	Tool
+Buhtrap	NOUN	InitCap	Tool
+group	NOUN	lowercase	HackOrg
+drive-by downloads	VERB	lowercase	Way
+spam	NOUN	lowercase	Way
+businesses	NOUN	lowercase	Idus
+RC4	NOUN	mixed	Tool
+PLAINTEE malware	NOUN	ALLCAPS	Tool
+attacks	NOUN	lowercase	OffAct
+RANCOR campaign	PROPN	ALLCAPS	OffAct
+Russian	ADJ	InitCap	Area
+groups	NOUN	lowercase	HackOrg
+Buhtrap	NOUN	InitCap	HackOrg
+Corkow	NOUN	InitCap	HackOrg
+Carbanak	NOUN	InitCap	HackOrg
+steal money	VERB	lowercase	Purp
+financial institutions	ADJ	lowercase	Org
+customers	NOUN	lowercase	Org
+Russia	PROPN	InitCap	Area
+RTM malware	PROPN	ALLCAPS	Tool
+Russian	ADJ	InitCap	Area
+criminals	NOUN	lowercase	HackOrg
+iSIGHT Partners	NOUN	mixedCaps	SecTeam
+Ukraine	PROPN	InitCap	Area
+customers	NOUN	lowercase	Org
+espionage operations	NOUN	lowercase	OffAct
+TrendMicro	PROPN	mixedCaps	SecTeam
+operators	NOUN	lowercase	HackOrg
+espionage	NOUN	lowercase	HackOrg
+iSiGHT	NOUN	mixedCaps	SecTeam
+Sandworm Team	VERB	InitCap	HackOrg
+activities	NOUN	lowercase	OffAct
+October 2014	PROPN	InitCap	Time
+zero-day exploit	NUM	lowercase	Exp
+CVE-2014-4114	NOUN	mixed	Exp
+Sandworm Team	VERB	InitCap	HackOrg
+October of 2014	PROPN	InitCap	Time
+Sandworm	VERB	InitCap	HackOrg
+BlackEnergy 3	PROPN	mixedCaps	SamFile
+Ukraine	PROPN	InitCap	Area
+2015	NOUN	numeric	Time
+Sandworm Team	VERB	InitCap	HackOrg
+iSiGHT Partners	NOUN	mixedCaps	SecTeam
+Sandworm Team	VERB	InitCap	HackOrg
+activities	NOUN	lowercase	OffAct
+October 2014	PROPN	InitCap	Time
+zero-day exploit	NUM	lowercase	Exp
+CVE-2014-4114	NOUN	mixed	Exp
+SIGHT Partners	PROPN	ALLCAPS	SecTeam
+KillDisk malware	PROPN	mixedCaps	Tool
+iSIGHT	NOUN	mixedCaps	SecTeam
+KillDisk malware	PROPN	mixedCaps	Tool
+SANS	NOUN	ALLCAPS	SecTeam
+Dragos Security	PROPN	InitCap	SecTeam
+Sandworm Team	VERB	InitCap	HackOrg
+activity	NOUN	lowercase	OffAct
+Europe	PROPN	InitCap	Area
+United States	PROPN	InitCap	Area
+cyber attack	PROPN	lowercase	OffAct
+Threat Actor	NOUN	InitCap	HackOrg
+actor	NOUN	lowercase	HackOrg
+VOODOO BEAR	PROPN	ALLCAPS	HackOrg
+Russian	ADJ	InitCap	Area
+VOODOO BEAR	PROPN	ALLCAPS	HackOrg
+PassKillDisk	NOUN	mixedCaps	Tool
+actor	NOUN	lowercase	HackOrg
+BlackEnergy	PROPN	mixedCaps	HackOrg
+GCat	PROPN	mixedCaps	HackOrg
+Black Energy	ADJ	InitCap	Tool
+energy	NOUN	lowercase	Idus
+government	NOUN	lowercase	Idus
+media	NOUN	lowercase	Idus
+espionage	NOUN	lowercase	HackOrg
+2011	NOUN	numeric	Time
+VOODOO BEAR	PROPN	ALLCAPS	HackOrg
+late 2014	ADV	lowercase	Time
+Black Energy	ADJ	InitCap	Tool
+energy	NOUN	lowercase	Idus
+government	NOUN	lowercase	Idus
+media	NOUN	lowercase	Idus
+espionage	NOUN	lowercase	HackOrg
+2011	NOUN	numeric	Time
+VOODOO BEAR	PROPN	ALLCAPS	HackOrg
+Russian	ADJ	InitCap	Area
+Ukraine	PROPN	InitCap	Area
+Ukrainian energy sector attacks	ADJ	InitCap	OffAct
+late 2015	ADV	lowercase	Time
+VOODOO BEAR	PROPN	ALLCAPS	HackOrg
+pro-Russian	ADJ	mixedCaps	Area
+summer of 2014	NOUN	lowercase	Time
+BlackEnergy	PROPN	mixedCaps	HackOrg
+Ukrainian	ADJ	InitCap	Area
+government institutions	NOUN	lowercase	Org
+actor	NOUN	lowercase	HackOrg
+BlackEnergy malware	PROPN	mixedCaps	Tool
+stealing information	VERB	lowercase	Purp
+BlackEnergy samples	PROPN	mixedCaps	Tool
+actors	NOUN	lowercase	HackOrg
+Quedagh	NOUN	InitCap	HackOrg
+political	ADJ	lowercase	Idus
+targeted attacks	VERB	lowercase	OffAct
+Ukrainian	ADJ	InitCap	Area
+government organizations	NOUN	lowercase	Org
+BlackEnergy sample	PROPN	mixedCaps	Tool
+Quedagh gang	NOUN	InitCap	HackOrg
+December 14 , 2010	PROPN	InitCap	Time
+European	ADJ	InitCap	Area
+Sandworm Team	VERB	InitCap	HackOrg
+attack	NOUN	lowercase	OffAct
+Ukrainian	ADJ	InitCap	Area
+government organizations	NOUN	lowercase	Org
+summer of 2014	NOUN	lowercase	Time
+BlackEnergy malware	PROPN	mixedCaps	Tool
+Ukranian	ADJ	InitCap	Area
+government organizations	NOUN	lowercase	Org
+group	NOUN	lowercase	HackOrg
+Quedagh	NOUN	InitCap	HackOrg
+political organizations	ADJ	lowercase	Org
+attacks	NOUN	lowercase	OffAct
+Scarlet Mimic	NOUN	InitCap	HackOrg
+Uyghur	PROPN	InitCap	Org
+Tibetan activists	PROPN	InitCap	Org
+actors	NOUN	lowercase	HackOrg
+Scarlet Mimic	NOUN	InitCap	HackOrg
+spear-phishing	NOUN	lowercase	Way
+watering hole	VERB	lowercase	OffAct
+attacks	NOUN	lowercase	OffAct
+attackers	NOUN	lowercase	HackOrg
+spear-phishing	NOUN	lowercase	Way
+Scarlet Mimic	NOUN	InitCap	HackOrg
+Scarlet Mimic attacks	NOUN	InitCap	OffAct
+2015	NOUN	numeric	Time
+group	NOUN	lowercase	HackOrg
+Muslim activists	ADJ	InitCap	Org
+Russian	ADJ	InitCap	Area
+Russian	ADJ	InitCap	Area
+Scarlet Mimic	NOUN	InitCap	HackOrg
+spear phishing	PROPN	lowercase	Way
+watering hole	VERB	lowercase	OffAct
+group	NOUN	lowercase	HackOrg
+attacks	NOUN	lowercase	OffAct
+backdoor Trojan	NOUN	lowercase	Tool
+Unit 42	NOUN	InitCap	SecTeam
+attacks	NOUN	lowercase	OffAct
+group	NOUN	lowercase	HackOrg
+groups	NOUN	lowercase	HackOrg
+minority groups	NOUN	lowercase	Org
+northwestern China	PROPN	lowercase	Area
+Attacks	NOUN	InitCap	OffAct
+group	NOUN	lowercase	HackOrg
+2013	NOUN	numeric	Time
+Trend Micro	NOUN	InitCap	SecTeam
+FakeM Trojan	PROPN	mixedCaps	Tool
+FakeM	PROPN	mixedCaps	Tool
+Scarlet Mimic	NOUN	InitCap	HackOrg
+Scarlet Mimic	NOUN	InitCap	HackOrg
+minority groups	NOUN	lowercase	Org
+supporters	NOUN	lowercase	Org
+group	NOUN	lowercase	HackOrg
+anti-terrorist organizations	ADJ	lowercase	Org
+Scarlet Mimic	NOUN	InitCap	HackOrg
+FakeM	PROPN	mixedCaps	Tool
+Unit 42	NOUN	InitCap	SecTeam
+FakeM	PROPN	mixedCaps	Tool
+MNKit	NOUN	mixedCaps	Tool
+WingD	PROPN	mixedCaps	Tool
+Tran Duy Linh	NOUN	InitCap	Tool
+July of 2015	PROPN	InitCap	Time
+e-mail	NOUN	lowercase	Way
+Scarlet Mimic exploit	NOUN	InitCap	Exp
+Scarlet Mimic	NOUN	InitCap	HackOrg
+spear-phishing	NOUN	lowercase	Way
+2013	NOUN	numeric	Time
+group	NOUN	lowercase	HackOrg
+watering hole attack	VERB	lowercase	OffAct
+FakeM	PROPN	mixedCaps	Tool
+January 2013	PROPN	InitCap	Time
+Trend Micro	NOUN	InitCap	SecTeam
+FakeM	PROPN	mixedCaps	Tool
+Trojan	NOUN	InitCap	Tool
+FakeM	PROPN	mixedCaps	Tool
+Scarlet Mimic	NOUN	InitCap	HackOrg
+Microsoft	PROPN	InitCap	Org
+September 2012	PROPN	InitCap	Time
+watering hole attack	VERB	lowercase	OffAct
+threat groups	NOUN	lowercase	HackOrg
+spear-phishing	NOUN	lowercase	Way
+Microsoft	PROPN	InitCap	Org
+September 2012	PROPN	InitCap	Time
+watering hole attack	VERB	lowercase	OffAct
+Scarlet Mimic	NOUN	InitCap	HackOrg
+spear-phishing	NOUN	lowercase	Way
+actors	NOUN	lowercase	HackOrg
+2009	NOUN	numeric	Time
+2014	NOUN	numeric	Time
+Unit 42	NOUN	InitCap	SecTeam
+mobile Trojan	PROPN	lowercase	Tool
+MobileOrder	PROPN	mixedCaps	Tool
+FakeM	PROPN	mixedCaps	Tool
+activity	NOUN	lowercase	OffAct
+Elirks	NOUN	InitCap	Tool
+Poison Ivy	NOUN	InitCap	Tool
+attacks	NOUN	lowercase	OffAct
+2009	NOUN	numeric	Time
+FakeM	PROPN	mixedCaps	Tool
+MobileOrder	PROPN	mixedCaps	Tool
+Psylo	PROPN	InitCap	Tool
+CallMe	VERB	mixedCaps	Tool
+Trend Micro	NOUN	InitCap	SecTeam
+FakeM Trojan	PROPN	mixedCaps	Tool
+January 17	PROPN	InitCap	Time
+2013	NOUN	numeric	Time
+FakeM	PROPN	mixedCaps	Tool
+Palo Alto Networks WildFire	PROPN	InitCap	SecTeam
+attacks	NOUN	lowercase	OffAct
+Scarlet Mimic	NOUN	InitCap	HackOrg
+HTRAN tool	PROPN	ALLCAPS	Tool
+Scarlet Mimic	NOUN	InitCap	HackOrg
+spear-phishing e-mails	NOUN	lowercase	Way
+watering hole attack	VERB	lowercase	OffAct
+2013	NOUN	numeric	Time
+Kaspersky Lab	PROPN	InitCap	SecTeam
+Scarlet Mimic group	NOUN	InitCap	HackOrg
+Actors	NOUN	InitCap	HackOrg
+HTRAN	PROPN	ALLCAPS	Tool
+actor	NOUN	lowercase	HackOrg
+HTRAN	PROPN	ALLCAPS	Tool
+Unit 42	NOUN	InitCap	SecTeam
+Scarlet Mimic	NOUN	InitCap	HackOrg
+Scarlet Mimic	NOUN	InitCap	HackOrg
+attacks	NOUN	lowercase	OffAct
+spear-phishing	NOUN	lowercase	Way
+watering holes	VERB	lowercase	Way
+2009	NOUN	numeric	Time
+CHM files	PROPN	ALLCAPS	Tool
+Silence APT	NOUN	InitCap	HackOrg
+Group-IB	PROPN	mixedCaps	SecTeam
+APT attacks	PROPN	ALLCAPS	OffAct
+Russian	ADJ	InitCap	Area
+banks	NOUN	lowercase	Idus
+banks	NOUN	lowercase	Idus
+group	NOUN	lowercase	HackOrg
+spear-phishing e-mails	NOUN	lowercase	Way
+watering hole attack	VERB	lowercase	OffAct
+2013	NOUN	numeric	Time
+group	NOUN	lowercase	HackOrg
+legitimate administration tools	ADJ	lowercase	Tool
+fly under the radar	VERB	lowercase	Purp
+malicious activity	ADJ	lowercase	OffAct
+January 12 , 2016	PROPN	InitCap	Time
+Cylance	NOUN	InitCap	SecTeam
+Mandiant	NOUN	InitCap	SecTeam
+APT2	NOUN	mixed	HackOrg
+CrowdStrike	PROPN	mixedCaps	SecTeam
+Putter Panda	PROPN	InitCap	HackOrg
+2016	NOUN	numeric	Time
+Unit 42	NOUN	InitCap	SecTeam
+2014	NOUN	numeric	Time
+Unit 42	NOUN	InitCap	SecTeam
+Nigerian	ADJ	InitCap	Area
+cybercriminals	NOUN	lowercase	HackOrg
+financial gain	ADJ	lowercase	Purp
+February 2017	PROPN	InitCap	Time
+FBI	PROPN	ALLCAPS	SecTeam
+January 2015	PROPN	InitCap	Time
+threat group	NOUN	lowercase	HackOrg
+Unit 42	NOUN	InitCap	SecTeam
+Nigerian	ADJ	InitCap	Area
+SilverTerrier	PROPN	mixedCaps	HackOrg
+2016	NOUN	numeric	Time
+FBI	PROPN	ALLCAPS	SecTeam
+threat group	NOUN	lowercase	HackOrg
+Unit 42	NOUN	InitCap	SecTeam
+Nigerian	ADJ	InitCap	Area
+SilverTerrier	PROPN	mixedCaps	HackOrg
+Pony	PROPN	InitCap	Tool
+2012	NOUN	numeric	Time
+Nigerian	ADJ	InitCap	Area
+August 2014	PROPN	InitCap	Time
+KeyBase	PROPN	mixedCaps	Tool
+SilverTerrier actors	PROPN	mixedCaps	HackOrg
+NetWire	PROPN	mixedCaps	Tool
+DarkComet	PROPN	mixedCaps	Tool
+NanoCore	PROPN	mixedCaps	Tool
+LuminosityLink	VERB	mixedCaps	Tool
+Remcos	PROPN	InitCap	Tool
+Imminent Monitor	NOUN	InitCap	Tool
+provide remote access	VERB	lowercase	Features
+Unit 42	NOUN	InitCap	SecTeam
+Nigerian	ADJ	InitCap	Area
+actors	NOUN	lowercase	HackOrg
+SilverTerrier actors	PROPN	mixedCaps	HackOrg
+Dynamic DNS	ADJ	InitCap	Tool
+virtual private servers	ADJ	lowercase	Tool
+email scams	NOUN	lowercase	Way
+SilverTerrier actors	PROPN	mixedCaps	HackOrg
+Unit 42	NOUN	InitCap	SecTeam
+SilverTerrier actors	PROPN	mixedCaps	HackOrg
+SilverTerrier actors	PROPN	mixedCaps	HackOrg
+United States	PROPN	InitCap	Area
+government	NOUN	lowercase	Idus
+global energy company	PROPN	lowercase	Org
+SilverTerrier actors	PROPN	mixedCaps	HackOrg
+social media	ADJ	lowercase	Idus
+Google®	PROPN	InitCap	Org
+Facebook®	PROPN	InitCap	Org
+MySpace®	PROPN	mixedCaps	Org
+Instagram®	PROPN	InitCap	Org
+dating and blogging sites	VERB	lowercase	Org
+Cybereason	NOUN	InitCap	SecTeam
+attack	NOUN	lowercase	OffAct
+telecommunications providers	NOUN	lowercase	Org
+Operation Soft Cell	NOUN	InitCap	OffAct
+2012	NOUN	numeric	Time
+activity	NOUN	lowercase	OffAct
+threat actor	NOUN	lowercase	HackOrg
+telecommunications providers	NOUN	lowercase	Org
+Threat actors	NOUN	InitCap	HackOrg
+attacks	NOUN	lowercase	OffAct
+Chinese	ADJ	InitCap	Area
+threat actors	NOUN	lowercase	HackOrg
+APT10	NOUN	mixed	HackOrg
+threat actor	NOUN	lowercase	HackOrg
+Chinese	ADJ	InitCap	Area
+threat actor	NOUN	lowercase	HackOrg
+compromise critical assets	NOUN	lowercase	Purp
+database servers	NOUN	lowercase	Purp
+billing servers	NOUN	lowercase	Purp
+active directory	ADJ	lowercase	Purp
+attack	NOUN	lowercase	OffAct
+web shell	PROPN	lowercase	Tool
+attackers	NOUN	lowercase	HackOrg
+attack	NOUN	lowercase	OffAct
+w3wp.exe	NOUN	mixed	SamFile
+China Chopper web shell	PROPN	InitCap	Tool
+attack	NOUN	lowercase	OffAct
+threat actor	NOUN	lowercase	HackOrg
+web shell	PROPN	lowercase	Tool
+steal credentials	VERB	lowercase	Purp
+attack	NOUN	lowercase	OffAct
+China Chopper	PROPN	InitCap	HackOrg
+FireEye	PROPN	mixedCaps	SecTeam
+China Chopper	PROPN	InitCap	HackOrg
+attacks	NOUN	lowercase	OffAct
+Australian	ADJ	InitCap	Area
+hosting providers	VERB	lowercase	Org
+Chinese-affiliated	PROPN	InitCap	Area
+threat actors	NOUN	lowercase	HackOrg
+APT 27	PROPN	ALLCAPS	HackOrg
+APT 40	PROPN	ALLCAPS	HackOrg
+threat actor	NOUN	lowercase	HackOrg
+mimikatz	PROPN	lowercase	Tool
+dumps NTLM hashes	VERB	lowercase	Features
+threat actor	NOUN	lowercase	HackOrg
+WMI	PROPN	ALLCAPS	Tool
+PsExec	PROPN	mixedCaps	Tool
+Nbtscan	ADJ	InitCap	Tool
+APT10	NOUN	mixed	HackOrg
+Operation Cloud Hopper	NOUN	InitCap	OffAct
+IT	PRON	ALLCAPS	Idus
+threat actor	NOUN	lowercase	HackOrg
+PoisonIvy RAT	PROPN	mixedCaps	Tool
+PIVY	PROPN	ALLCAPS	Tool
+RAT	PROPN	ALLCAPS	Tool
+Chinese	ADJ	InitCap	Area
+threat actors	NOUN	lowercase	HackOrg
+APT10	NOUN	mixed	HackOrg
+APT1	NOUN	mixed	HackOrg
+DragonOK	X	mixedCaps	HackOrg
+multi-featured RAT	ADJ	lowercase	Tool
+threat actor	NOUN	lowercase	HackOrg
+threat actor	NOUN	lowercase	HackOrg
+winrar	NOUN	lowercase	Tool
+winrar	NOUN	lowercase	Tool
+Recycle Bin folder	NOUN	InitCap	Tool
+TTP	PROPN	ALLCAPS	Tool
+APT10-related attacks	NOUN	mixed	OffAct
+connection bouncer	NOUN	lowercase	Tool
+threat actor	NOUN	lowercase	HackOrg
+ports and connections	NOUN	lowercase	Features
+exfiltrate data from	VERB	lowercase	Purp
+threat actor	NOUN	lowercase	HackOrg
+hTran	PROPN	mixedCaps	Tool
+hTran	PROPN	mixedCaps	Tool
+Chinese	ADJ	InitCap	Area
+threat actors	NOUN	lowercase	HackOrg
+APT3	NOUN	mixed	HackOrg
+APT27	NOUN	mixed	HackOrg
+DragonOK	X	mixedCaps	HackOrg
+threat actor	NOUN	lowercase	HackOrg
+hTran	PROPN	mixedCaps	Tool
+threat actor	NOUN	lowercase	HackOrg
+threat actors	NOUN	lowercase	HackOrg
+APT10	NOUN	mixed	HackOrg
+APT1	NOUN	mixed	HackOrg
+dynamic DNS	ADJ	lowercase	Tool
+attacks	NOUN	lowercase	OffAct
+threat actor	NOUN	lowercase	HackOrg
+steal communications data	VERB	lowercase	Purp
+specific individuals	ADJ	lowercase	Org
+threat actor	NOUN	lowercase	HackOrg
+threat actor	NOUN	lowercase	HackOrg
+China	PROPN	InitCap	Area
+Symantec	ADJ	InitCap	SecTeam
+Sowbug-related activity	PROPN	InitCap	OffAct
+March 2017	PROPN	InitCap	Time
+Felismus	PROPN	InitCap	Tool
+Southeast Asia	ADV	InitCap	Area
+Symantec	ADJ	InitCap	SecTeam
+Sowbug group	PROPN	InitCap	HackOrg
+March 2017	PROPN	InitCap	Time
+Felismus	PROPN	InitCap	Tool
+Southeast Asia	ADV	InitCap	Area
+Symantec	ADJ	InitCap	SecTeam
+attack campaigns	NOUN	lowercase	OffAct
+Sowbug	PROPN	InitCap	HackOrg
+early-2015	NOUN	mixed	Time
+Sowbug	PROPN	InitCap	HackOrg
+government entities	NOUN	lowercase	Org
+South America	ADJ	InitCap	Area
+Southeast Asia	ADV	InitCap	Area
+infiltrated organizations	VERB	lowercase	Org
+Argentina	PROPN	InitCap	Area
+Brazil	PROPN	InitCap	Area
+Ecuador	PROPN	InitCap	Area
+Peru	PROPN	InitCap	Area
+Brunei	PROPN	InitCap	Area
+Malaysia	PROPN	InitCap	Area
+2015 attack	NOUN	numeric	OffAct
+South American	ADJ	InitCap	Area
+group	NOUN	lowercase	HackOrg
+May 6 , 2015	AUX	InitCap	Time
+activity	NOUN	lowercase	OffAct
+May 12	AUX	InitCap	Time
+attackers	NOUN	lowercase	HackOrg
+May	AUX	InitCap	Time
+September 2015	PROPN	InitCap	Time
+groups	NOUN	lowercase	HackOrg
+North Korean	NOUN	InitCap	Area
+government	NOUN	lowercase	Org
+electric	PROPN	lowercase	Idus
+South Korea	ADJ	InitCap	Area
+KHNP documents	PROPN	ALLCAPS	SamFile
+actors	NOUN	lowercase	HackOrg
+South Korean Government	ADJ	InitCap	Org
+North Korea	NOUN	InitCap	Area
+North Korea	NOUN	InitCap	Area
+the U.S.	PRON	lowercase	Area
+South Korea	ADJ	InitCap	Area
+financial	ADJ	lowercase	Idus
+nations	NOUN	lowercase	Idus
+FireEye	PROPN	mixedCaps	SecTeam
+groups	NOUN	lowercase	HackOrg
+CapabilitiesFormBook	VERB	mixedCaps	Idus
+banker	NOUN	lowercase	Org
+FormBook OverviewFormBook	NOUN	mixedCaps	Tool
+2016	NOUN	numeric	Time
+malware	NOUN	lowercase	Tool
+inject itself	VERB	lowercase	Way
+explorer.exe	NUM	lowercase	SamFile
+attackers	NOUN	lowercase	HackOrg
+deliver the information	VERB	lowercase	Purp
+the United States	PRON	lowercase	Area
+Aerospace/Defense	PROPN	mixedCaps	Idus
+last few weeks	ADJ	lowercase	Time
+FormBook	NOUN	mixedCaps	SamFile
+NanoCore	PROPN	mixedCaps	SamFile
+campaign	NOUN	lowercase	OffAct
+APT19	NOUN	mixed	HackOrg
+Chinese	ADJ	InitCap	Org
+government	NOUN	lowercase	Org
+FireEye	PROPN	mixedCaps	SecTeam
+malicious documents	ADJ	lowercase	SamFile
+APT19	NOUN	mixed	HackOrg
+steal data	VERB	lowercase	OffAct
+competitive economic	ADJ	lowercase	Purp
+CVE-2017-1099	NOUN	mixed	Exp
+RTF attachments	PROPN	ALLCAPS	SamFile
+May	AUX	InitCap	Time
+phishing lures	VERB	lowercase	Way
+RTF attachments	PROPN	ALLCAPS	SamFile
+CVE-2017-0199	NOUN	mixed	Exp
+APT32	NOUN	mixed	HackOrg
+security	NOUN	lowercase	Idus
+technology	NOUN	lowercase	Idus
+FireEye’s	PROPN	mixedCaps	SecTeam
+APT32	NOUN	mixed	HackOrg
+mid-2016	NOUN	mixed	SecTeam
+FireEye	PROPN	mixedCaps	SecTeam
+APT32	NOUN	mixed	HackOrg
+hospitality	NOUN	lowercase	Idus
+Vietnam	PROPN	InitCap	Area
+March 2017	PROPN	InitCap	Time
+FireEye	PROPN	mixedCaps	SecTeam
+Community Protection Event	NOUN	InitCap	OffAct
+Mandiant	NOUN	InitCap	SecTeam
+FireEye	PROPN	mixedCaps	SecTeam
+FireEye iSight Intelligence	PROPN	mixedCaps	SecTeam
+FireEye	PROPN	mixedCaps	SecTeam
+APT32	NOUN	mixed	HackOrg
+campaign	NOUN	lowercase	OffAct
+APT32	NOUN	mixed	HackOrg
+ActiveMime files	PROPN	mixedCaps	SamFile
+social engineering	ADJ	lowercase	Way
+APT32	NOUN	mixed	HackOrg
+malicious attachments	ADJ	lowercase	SamFile
+spear-phishing	NOUN	lowercase	Way
+APT19	NOUN	mixed	HackOrg
+Microsoft Excel files	PROPN	InitCap	SamFile
+deliver	VERB	lowercase	Purp
+FireEye	PROPN	mixedCaps	SecTeam
+APT32’s	NOUN	mixed	HackOrg
+phishing	VERB	lowercase	Way
+2014	NOUN	numeric	Time
+APT32	NOUN	mixed	HackOrg
+Western	ADJ	InitCap	Area
+2015	NOUN	numeric	Time
+SkyEye Labs	ADJ	mixedCaps	SecTeam
+Chinese	ADJ	InitCap	Area
+Qihoo 360	VERB	InitCap	SecTeam
+Chinese	ADJ	InitCap	Area
+government agencies	NOUN	lowercase	Org
+research institutes	NOUN	lowercase	Org
+maritime agencies	PROPN	lowercase	Org
+sea construction	NOUN	lowercase	Org
+shipping enterprises	NOUN	lowercase	Org
+phishing	VERB	lowercase	Way
+APT32	NOUN	mixed	HackOrg
+sales organizations	NOUN	lowercase	Org
+2014	NOUN	numeric	Time
+FireEye	PROPN	mixedCaps	SecTeam
+APT32	NOUN	mixed	HackOrg
+Vietnama's	PROPN	InitCap	Area
+manufacturing	VERB	lowercase	Org
+consumer products	NOUN	lowercase	Org
+hospitality sectors	NOUN	lowercase	Org
+Mandiant	NOUN	InitCap	SecTeam
+APT32	NOUN	mixed	HackOrg
+track the public IP address	NOUN	lowercase	Purp
+APT32	NOUN	mixed	HackOrg
+backdoors	NOUN	lowercase	Tool
+Cobalt Strike	NOUN	InitCap	HackOrg
+BEACON	PROPN	ALLCAPS	Tool
+backdoor	NOUN	lowercase	Tool
+APT32	NOUN	mixed	HackOrg
+FireEye	PROPN	mixedCaps	SecTeam
+business	NOUN	lowercase	Idus
+APT32	NOUN	mixed	HackOrg
+law enforcement	NOUN	lowercase	Idus
+China	PROPN	InitCap	Area
+Iran	PROPN	InitCap	Area
+Russia	PROPN	InitCap	Area
+North Korea	NOUN	InitCap	Area
+FireEye	PROPN	mixedCaps	SecTeam
+APT32	NOUN	mixed	HackOrg
+Mandiant	NOUN	InitCap	SecTeam
+APT32	NOUN	mixed	HackOrg
+PowerShell-based tools	PROPN	mixedCaps	Tool
+APT32	NOUN	mixed	HackOrg
+Southeast Asia	ADV	InitCap	Area
+public sector	NOUN	lowercase	Org
+North Korea's	NOUN	InitCap	Area
+activities	NOUN	lowercase	OffAct
+CARBANAK	PROPN	ALLCAPS	HackOrg
+data-stealing	NOUN	lowercase	Purp
+CARBANAK	PROPN	ALLCAPS	SamFile
+May 2017	AUX	InitCap	Time
+Mandiant	NOUN	InitCap	SecTeam
+North Korean	NOUN	InitCap	Area
+South Korean	ADJ	InitCap	Area
+stealing funds	VERB	lowercase	Purp
+February	PROPN	InitCap	Time
+attacker	PROPN	lowercase	HackOrg
+APT28’s	NOUN	mixed	HackOrg
+Trojan ransomware	NOUN	InitCap	SamFile
+2015	NOUN	numeric	Time
+CitizenLab	PROPN	mixedCaps	SecTeam
+Gamma Group	PROPN	InitCap	HackOrg
+infrastructure	NOUN	lowercase	Org
+March 4	PROPN	InitCap	Time
+2017	NOUN	numeric	Time
+malicious documents	ADJ	lowercase	SamFile
+CVE-2017-0199	NOUN	mixed	Exp
+LATENTBOT malware	PROPN	ALLCAPS	Tool
+LATENTBOT	PROPN	ALLCAPS	Tool
+FireEye iSIGHT intelligence	PROPN	mixedCaps	SecTeam
+December 2015	PROPN	InitCap	Time
+credential theft	NOUN	lowercase	Features
+hard drive	ADJ	lowercase	Features
+data wiping	NOUN	lowercase	Features
+disabling security software	VERB	lowercase	Features
+remote desktop functionality	ADJ	lowercase	Features
+cyber espionage incident	PROPN	lowercase	OffAct
+Russians	NOUN	InitCap	Area
+English	ADJ	InitCap	Area
+DRIDEX activity	NOUN	ALLCAPS	OffAct
+April 7	PROPN	InitCap	Time
+2017	NOUN	numeric	Time
+campaign	NOUN	lowercase	OffAct
+government	NOUN	lowercase	Org
+Middle East	ADJ	InitCap	Area
+U.S.	PROPN	ALLCAPS	Area
+Japan	PROPN	InitCap	Area
+government sector	NOUN	lowercase	Org
+Middle East	ADJ	InitCap	Area
+U.S.	PROPN	ALLCAPS	Area
+Japan	PROPN	InitCap	Area
+FireEye	PROPN	mixedCaps	SecTeam
+actors	NOUN	lowercase	HackOrg
+financially	ADV	lowercase	Idus
+CVE-2017-0261	NOUN	mixed	Exp
+APT28	NOUN	mixed	HackOrg
+CVE-2017-0262	NOUN	mixed	Exp
+CVE-2017-0263	NOUN	mixed	Exp
+Turla	PROPN	InitCap	HackOrg
+APT28	NOUN	mixed	HackOrg
+Russian	ADJ	InitCap	Area
+European	ADJ	InitCap	Area
+military	NOUN	lowercase	Idus
+st07383.en17.docx	NOUN	mixed	SamFile
+CVE-2017-0001	NOUN	mixed	Exp
+SHIRIME	NOUN	ALLCAPS	SamFile
+document	NOUN	lowercase	SamFile
+Trump's_Attack_on_Syria_English.docx”	ADJ	mixedCaps	Exp
+CVE-2017-8759	NOUN	mixed	Exp
+actors	NOUN	lowercase	HackOrg
+Russian	ADJ	InitCap	Area
+less complex measures	ADV	lowercase	Purp
+EternalBlue	PROPN	mixedCaps	Exp
+Metasploit	PROPN	InitCap	Tool
+actors	NOUN	lowercase	HackOrg
+FireEye	PROPN	mixedCaps	SecTeam
+FIN10	NOUN	mixed	HackOrg
+FIN7	NOUN	mixed	HackOrg
+PowerShell script	PROPN	mixedCaps	Tool
+sdbinst.exe”	X	lowercase	SamFile
+Mandiant	NOUN	InitCap	SecTeam
+FIN7	NOUN	mixed	HackOrg
+services.exe”	X	lowercase	SamFile
+CARBANAK	PROPN	ALLCAPS	Tool
+FIN7	NOUN	mixed	HackOrg
+financially	ADV	lowercase	Idus
+spear phishing	PROPN	lowercase	Way
+Mandiant	NOUN	InitCap	SecTeam
+FIN7	NOUN	mixed	HackOrg
+CARBANAK	PROPN	ALLCAPS	Tool
+CARBANAK	PROPN	ALLCAPS	Tool
+FIN7	NOUN	mixed	HackOrg
+FIN7’s	NOUN	mixed	HackOrg
+campaign	NOUN	lowercase	OffAct
+malicious emails	ADJ	lowercase	SamFile
+attackers	NOUN	lowercase	HackOrg
+pursuing securities fraud	VERB	lowercase	Purp
+investment abuse	NOUN	lowercase	Purp
+CARBANAK malware	PROPN	ALLCAPS	Tool
+FIN7	NOUN	mixed	HackOrg
+CARBANAK operations	PROPN	ALLCAPS	OffAct
+banking transactions	NOUN	lowercase	Idus
+phishing email	VERB	lowercase	SamFile
+HawkEye operators	PROPN	mixedCaps	OffAct
+HawkEye malware	PROPN	mixedCaps	Tool
+credential theft	NOUN	lowercase	Purp
+HawkEye	PROPN	mixedCaps	Tool
+actors	NOUN	lowercase	HackOrg
+multiple purposes	NOUN	lowercase	Purp
+HawkEye	PROPN	mixedCaps	HackOrg
+infecting	VERB	lowercase	OffAct
+stealing	VERB	lowercase	OffAct
+Mandiant	NOUN	InitCap	SecTeam
+May of 2016	AUX	InitCap	Time
+M-Trends	PROPN	mixedCaps	SecTeam
+2017	NOUN	numeric	Time
+last year	ADJ	lowercase	Time
+Americas	NOUN	InitCap	Area
+defensive	PROPN	lowercase	Idus
+emerging	VERB	lowercase	Idus
+M-Trends	PROPN	mixedCaps	SecTeam
+2016	NOUN	numeric	Time
+Mandiant’s	PROPN	InitCap	SecTeam
+M-Trends	PROPN	mixedCaps	SecTeam
+2017	NOUN	numeric	Time
+FireEye	PROPN	mixedCaps	SecTeam
+FireEye	PROPN	mixedCaps	SecTeam
+March 2017	PROPN	InitCap	Time
+2016	NOUN	numeric	Time
+2017	NOUN	numeric	Time
+Magnitude EK	PROPN	InitCap	Tool
+Oct. 15	PROPN	InitCap	Time
+2017	NOUN	numeric	Time
+South Korea	ADJ	InitCap	Area
+Magnitude EK	PROPN	InitCap	Tool
+CVE-2016-0189	NOUN	mixed	Exp
+FireEye	PROPN	mixedCaps	SecTeam
+Neutrino Exploit Kit	NOUN	InitCap	Tool
+2016	NOUN	numeric	Time
+2017	NOUN	numeric	Time
+FireEye	PROPN	mixedCaps	SecTeam
+Magnitude EK	PROPN	InitCap	Tool
+APAC region	PROPN	ALLCAPS	Area
+January 2017	PROPN	InitCap	Time
+campaign	NOUN	lowercase	OffAct
+regsvr32.exe	NOUN	mixed	SamFile
+APT19	NOUN	mixed	HackOrg
+2017	NOUN	numeric	Time
+law firms	NOUN	lowercase	Org
+September 2017	PROPN	InitCap	Time
+Magnitude EK	PROPN	InitCap	Tool
+APAC region	PROPN	ALLCAPS	Area
+South Korea	ADJ	InitCap	Area
+ransomware	PROPN	lowercase	Tool
+Korean	ADJ	InitCap	Area
+Korean	ADJ	InitCap	Area
+malware	NOUN	lowercase	SamFile
+stolen credentials	VERB	lowercase	Way
+SMB exploits	PROPN	ALLCAPS	Way
+EternalBlue exploit	PROPN	mixedCaps	Tool
+WannaCry	PROPN	mixedCaps	HackOrg
+May 2017	AUX	InitCap	Time
+Black Hat	ADJ	InitCap	SecTeam
+2017	NOUN	numeric	Time
+PowerShell attacks	PROPN	mixedCaps	OffAct
+EternalBlue”	PROPN	mixedCaps	Exp
+Shadow Brokers	NOUN	InitCap	HackOrg
+April 14	PROPN	InitCap	Time
+2017	NOUN	numeric	Time
+malware	NOUN	lowercase	SamFile
+.WCRY extension	PUNCT	ALLCAPS	SamFile
+malware	NOUN	lowercase	SamFile
+DLLs	NOUN	mixedCaps	SamFile
+malware	NOUN	lowercase	SamFile
+mssecsvc2.0	NOUN	mixed	SamFile
+malware	NOUN	lowercase	SamFile
+file	NOUN	lowercase	SamFile
+flare-qdb	NOUN	lowercase	SamFile
+loops dealing	NOUN	lowercase	Features
+IDA Pro	PROPN	ALLCAPS	SamFile
+WinDbg	VERB	mixedCaps	SamFile
+phishing campaign	VERB	lowercase	OffAct
+July 2016	PROPN	InitCap	Time
+September 2016	PROPN	InitCap	Time
+crime group	NOUN	lowercase	HackOrg
+payment card	NOUN	lowercase	Purp
+actors	NOUN	lowercase	HackOrg
+FireEye Labs	PROPN	mixedCaps	SecTeam
+payment card credentials	NOUN	lowercase	Purp
+compromising payment card	VERB	lowercase	Way
+actors	NOUN	lowercase	HackOrg
+generate further card information	VERB	lowercase	Purp
+group	NOUN	lowercase	HackOrg
+CCleaner	PROPN	mixedCaps	Tool
+remove any evidence	VERB	lowercase	Purp
+actors	NOUN	lowercase	HackOrg
+changing their system's	VERB	lowercase	Way
+actors	NOUN	lowercase	HackOrg
+Technitium MAC Address Changer	NOUN	InitCap	Tool
+actors	NOUN	lowercase	HackOrg
+Tor	NOUN	InitCap	Tool
+proxy-based tools	NOUN	lowercase	Tool
+them	PRON	lowercase	SamFile
+using virtual private network services	VERB	lowercase	Features
+ensure anonymity	VERB	lowercase	Purp
+obfuscate criminal operations	VERB	lowercase	Purp
+group	NOUN	lowercase	HackOrg
+compromise	NOUN	lowercase	Purp
+Brazilian	ADJ	InitCap	Area
+actors	NOUN	lowercase	HackOrg
+social media forums	ADJ	lowercase	Org
+group	NOUN	lowercase	HackOrg
+email credentials	NOUN	lowercase	Tool
+personal information	ADJ	lowercase	Tool
+fraud purposes	NOUN	lowercase	Purp
+actors	NOUN	lowercase	HackOrg
+illicitly access databases	ADV	lowercase	Purp
+They	PRON	InitCap	HackOrg
+Brazilian	ADJ	InitCap	Area
+Brazil	PROPN	InitCap	Area
+group	NOUN	lowercase	HackOrg
+SQL injection	PROPN	ALLCAPS	Tool
+scan for	PROPN	lowercase	Purp
+exploit vulnerabilities	VERB	lowercase	Purp
+sellers	NOUN	lowercase	HackOrg
+U.S	PROPN	ALLCAPS	Area
+card credentials	NOUN	lowercase	Tool
+actors	NOUN	lowercase	HackOrg
+generate new card numbers	VERB	lowercase	Purp
+bulk card-checking	NOUN	lowercase	Tool
+group	NOUN	lowercase	HackOrg
+PayPal Payflow	PROPN	mixedCaps	Tool
+May 2016	AUX	InitCap	Time
+June 2016	PROPN	InitCap	Time
+actors	NOUN	lowercase	HackOrg
+the U.S.	PRON	lowercase	Area
+Brazil	PROPN	InitCap	Area
+France	PROPN	InitCap	Area
+actors	NOUN	lowercase	HackOrg
+create cloned physical cards	VERB	lowercase	Purp
+withdraw funds	VERB	lowercase	Purp
+group	NOUN	lowercase	HackOrg
+MSR 606 Software	NOUN	ALLCAPS	Tool
+Hardware	NOUN	InitCap	Tool
+create cloned cards	VERB	lowercase	Purp
+Brazilian	ADJ	InitCap	Area
+actors	NOUN	lowercase	HackOrg
+stolen cards	VERB	lowercase	Purp
+attacker	PROPN	lowercase	HackOrg
+APAC	PROPN	ALLCAPS	Area
+April 2015	PROPN	InitCap	Time
+APT30	NOUN	mixed	HackOrg
+China-based	PROPN	InitCap	Area
+governments	NOUN	lowercase	Org
+organizations	NOUN	lowercase	Org
+sensitive political	ADJ	lowercase	Idus
+economic	ADJ	lowercase	Idus
+military	NOUN	lowercase	Idus
+individuals	NOUN	lowercase	HackOrg
+Hancitor	NOUN	InitCap	Tool
+Chanitor	NOUN	InitCap	Tool
+steal data	VERB	lowercase	Purp
+Hancitor	NOUN	InitCap	HackOrg
+FireEye	PROPN	mixedCaps	SecTeam
+group	NOUN	lowercase	HackOrg
+Brazil	PROPN	InitCap	Area
+Pony DLL	PROPN	InitCap	SamFile
+Vawtrak	PROPN	InitCap	SamFile
+data theft	NOUN	lowercase	Features
+connect	VERB	lowercase	Features
+command	NOUN	lowercase	Purp
+control (C2) server	NOUN	lowercase	Purp
+Microsoft Office document	PROPN	InitCap	Way
+Hancitor	NOUN	InitCap	SamFile
+Pony	PROPN	InitCap	SamFile
+Vawtrak	PROPN	InitCap	SamFile
+steal data	VERB	lowercase	Purp
+download	NOUN	lowercase	Features
+Pony malware	PROPN	InitCap	SamFile
+FireEye	PROPN	mixedCaps	SecTeam
+ATM malware	PROPN	ALLCAPS	SamFile
+RIPPER	PROPN	ALLCAPS	SamFile
+banks	NOUN	lowercase	Idus
+Thailand	PROPN	InitCap	Area
+RIPPER	PROPN	ALLCAPS	SamFile
+interacts with the ATM	VERB	lowercase	Features
+RIPPER	PROPN	ALLCAPS	SamFile
+examine	VERB	lowercase	Features
+ATM vendors	PROPN	ALLCAPS	Org
+replace legitimate executables	VERB	lowercase	Features
+RIPPER	PROPN	ALLCAPS	SamFile
+instantiate a timer	ADJ	lowercase	Features
+control the machine	NOUN	lowercase	Purp
+malware	NOUN	lowercase	SamFile
+compromise multiple vendor platforms	NOUN	lowercase	Features
+leverages uncommon technology	NOUN	lowercase	Features
+Locky	PROPN	InitCap	SamFile
+delivered	VERB	lowercase	Features
+August	PROPN	InitCap	Time
+Mexico	PROPN	InitCap	Area
+2013	NOUN	numeric	Time
+Ploutus	NOUN	InitCap	SamFile
+empty ATMs	ADJ	lowercase	Features
+via SMS message	ADP	lowercase	Features
+FireEye	PROPN	mixedCaps	SecTeam
+Ploutus	NOUN	InitCap	SamFile
+Ploutus-D	NOUN	mixedCaps	SamFile
+interacts	VERB	lowercase	Features
+samples	NOUN	lowercase	SamFile
+ATM vendor Diebold	PROPN	ALLCAPS	Org
+Ploutus-D	NOUN	mixedCaps	SamFile
+financial	ADJ	lowercase	Idus
+Ploutus-D	NOUN	mixedCaps	SamFile
+attackers	NOUN	lowercase	HackOrg
+Ploutus-D	NOUN	mixedCaps	SamFile
+interact	VERB	lowercase	Purp
+Ploutus-D	NOUN	mixedCaps	SamFile
+Ploutus-D	NOUN	mixedCaps	SamFile
+ATM vendors	PROPN	ALLCAPS	Org
+Mandiant’s	PROPN	InitCap	SecTeam
+FireEye	PROPN	mixedCaps	SecTeam
+FIN7	NOUN	mixed	HackOrg
+financially	ADV	lowercase	Idus
+FireEye	PROPN	mixedCaps	SecTeam
+2016	NOUN	numeric	Time
+mid-November	PROPN	mixedCaps	Time
+Mandiant	NOUN	InitCap	SecTeam
+FireEye	PROPN	mixedCaps	SecTeam
+Gulf	PROPN	InitCap	Area
+attackers	NOUN	lowercase	HackOrg
+banking	NOUN	lowercase	Idus
+FireEye	PROPN	mixedCaps	SecTeam
+phishing	VERB	lowercase	Way
+campaigns	NOUN	lowercase	OffAct
+APT28’s	NOUN	mixed	HackOrg
+2007	NOUN	numeric	Time
+APT28	NOUN	mixed	HackOrg
+Russian government	ADJ	InitCap	Org
+actors	NOUN	lowercase	HackOrg
+inject shellcode	VERB	lowercase	Way
+userinit.exe	X	lowercase	SamFile
+regsvr32.exe	NOUN	mixed	SamFile
+SCT file	PROPN	ALLCAPS	SamFile
+regsvr32.exe	NOUN	mixed	SamFile
+SCT file	PROPN	ALLCAPS	SamFile
+winword.exe	NOUN	lowercase	SamFile
+Start-Process	PROPN	mixedCaps	SamFile
+cmdlet	NOUN	lowercase	SamFile
+Ordnance	NOUN	InitCap	SamFile
+shellcode	PROPN	lowercase	SamFile
+Stuxnet MOF	NOUN	InitCap	Tool
+NSA	NOUN	ALLCAPS	Org
+Stuxnet	NOUN	InitCap	Tool
+Stuxnet tools	NOUN	InitCap	Tool
+NSA	NOUN	ALLCAPS	Org
+break into hardware firewall appliances	VERB	lowercase	Features
+corporate or government networks	ADJ	lowercase	Features
+Cisco exploits	PROPN	InitCap	Exp
+DanderSpritz	PROPN	mixedCaps	Tool
+gather intelligence	VERB	lowercase	Features
+use exploits	NOUN	lowercase	Features
+examine already controlled machines	VERB	lowercase	Features
+DanderSpritz	PROPN	mixedCaps	Tool
+gather intelligence	VERB	lowercase	Features
+use exploits	NOUN	lowercase	Features
+examine already controlled machines	VERB	lowercase	Features
+DarkPulsar	PROPN	mixedCaps	Tool
+backdoor	NOUN	lowercase	Tool
+sipauth32.tsp	NOUN	mixed	SamFile
+provides remote control	VERB	lowercase	Purp
+DanderSpritz	PROPN	mixedCaps	Tool
+FuZZbuNch	ADV	mixedCaps	Tool
+DisableSecurity	NOUN	mixedCaps	Tool
+EnableSecurity	NOUN	mixedCaps	Tool
+DarkPulsar	PROPN	mixedCaps	Tool
+PeddleCheap	PROPN	mixedCaps	Tool
+DanderSpritz	PROPN	mixedCaps	Tool
+configure implants	NOUN	lowercase	Features
+connect to infected machines	VERB	lowercase	Features
+FuzzBunch	NOUN	mixedCaps	Tool
+DanderSpritz	PROPN	mixedCaps	Tool
+FuzzBunch plugins	NOUN	mixedCaps	Tool
+reconnaissance and attacking a	NOUN	lowercase	Features
+DanderSpritz	PROPN	mixedCaps	Tool
+managing already infected victims	VERB	lowercase	Features
+NSA	NOUN	ALLCAPS	Org
+espionage operations	NOUN	lowercase	OffAct
+spy agency	NOUN	lowercase	Org
+Iran	PROPN	InitCap	Area
+Russia	PROPN	InitCap	Area
+NSA	NOUN	ALLCAPS	Org
+Russian Federal Nuclear Center	ADJ	InitCap	Area
+Windows hacking tools	NOUN	InitCap	Tool
+NSA	NOUN	ALLCAPS	Org
+EastNets	NOUN	mixedCaps	Org
+2013	NOUN	numeric	Time
+NSA	NOUN	ALLCAPS	Org
+oil	NOUN	lowercase	Idus
+investment companies	NOUN	lowercase	Org
+Middle East	ADJ	InitCap	Area
+Kaspersky	PROPN	InitCap	SecTeam
+2001	NOUN	numeric	Time
+Feb. 2015	PROPN	InitCap	Time
+Russian	ADJ	InitCap	Area
+security firm	NOUN	lowercase	Org
+Kaspersky Lab	PROPN	InitCap	SecTeam
+cyber attack	PROPN	lowercase	OffAct
+Equation Group	NOUN	InitCap	HackOrg
+Iran	PROPN	InitCap	Area
+Russia	PROPN	InitCap	Area
+Pakistan	PROPN	InitCap	Area
+Afghanistan	PROPN	InitCap	Area
+India	PROPN	InitCap	Area
+Syria	PROPN	InitCap	Area
+Mali	PROPN	InitCap	Area
+1972	NOUN	numeric	Time
+integrate the NSA	VERB	lowercase	Purp
+Service Cryptologic Elements	NOUN	InitCap	Purp
+SCE	PROPN	ALLCAPS	Purp
+KrebsOnSecurity	PROPN	mixedCaps	SecTeam
+Shadow Brokers	NOUN	InitCap	HackOrg
+UNITEDRAKE NSA exploit	ADJ	ALLCAPS	Exp
+capture desired information	VERB	lowercase	Features
+transfer	NOUN	lowercase	Features
+ShadowBrokers	NOUN	mixedCaps	HackOrg
+NSA	NOUN	ALLCAPS	Org
+captures information	NOUN	lowercase	Features
+carrying out surveillance	VERB	lowercase	Features
+access external drives	NOUN	lowercase	Features
+UNITEDRAKE	ADJ	ALLCAPS	Tool
+2016	NOUN	numeric	Time
+NSA	NOUN	ALLCAPS	Org
+ETERNALBLUE	PROPN	ALLCAPS	Exp
+WannaCry ransomware campaign	PROPN	mixedCaps	OffAct
+Slingshot	PROPN	InitCap	Tool
+attack	NOUN	lowercase	OffAct
+Project Sauron	NOUN	InitCap	Tool
+Regin	VERB	InitCap	Tool
+ipv4.dll	NOUN	mixed	SamFile
+downloader	NOUN	lowercase	Tool
+Slingshot	PROPN	InitCap	Tool
+vulnerable drivers	ADJ	lowercase	Way
+KPWS	NOUN	ALLCAPS	Tool
+Slingshot	PROPN	InitCap	Tool
+Canhadr/Ndriver	PROPN	mixedCaps	SamFile
+provides full access	VERB	lowercase	Features
+carries out integrity control	VERB	lowercase	Features
+explaining how the cyber weapons	VERB	lowercase	Features
+highly classified intelligence	ADV	lowercase	Purp
+Slingshot	PROPN	InitCap	Tool
+Kenya	PROPN	InitCap	Area
+Yemen	PROPN	InitCap	Area
+Afghanistan	PROPN	InitCap	Area
+Libya	PROPN	InitCap	Area
+Congo	PROPN	InitCap	Area
+Jordan	PROPN	InitCap	Area
+Turkey	PROPN	InitCap	Area
+Iraq	PROPN	InitCap	Area
+Sudan	PROPN	InitCap	Area
+Somalia	PROPN	InitCap	Area
+Tanzania	PROPN	InitCap	Area
+Slingshot	PROPN	InitCap	Tool
+White	ADJ	InitCap	Tool
+Grey Lambert	PROPN	InitCap	Tool
+Cylance	NOUN	InitCap	SecTeam
+Snake Wine	NOUN	InitCap	HackOrg
+Snake Wine	NOUN	InitCap	HackOrg
+attacks	NOUN	lowercase	OffAct
+spear phishing	PROPN	lowercase	Way
+Ham Backdoor	NOUN	InitCap	Tool
+download additional modules	NOUN	lowercase	Features
+Cylance	NOUN	InitCap	SecTeam
+Tofu Backdoor	NOUN	InitCap	Tool
+Ham Backdoor	NOUN	InitCap	Tool
+activity	NOUN	lowercase	OffAct
+government entities	NOUN	lowercase	Org
+FireEye	PROPN	mixedCaps	SecTeam
+MenuPass	PROPN	mixedCaps	HackOrg
+FireEye	PROPN	mixedCaps	SecTeam
+publicly available RATs	ADV	lowercase	Tool
+activity	NOUN	lowercase	OffAct
+domain hosting company	NOUN	lowercase	Org
+Russian	ADJ	InitCap	Area
+APT28	NOUN	mixed	HackOrg
+Germany	PROPN	InitCap	Area
+Der Spiegel	PROPN	InitCap	SecTeam
+January 2015	PROPN	InitCap	Time
+Cyber Network Operation	NOUN	InitCap	OffAct
+French intelligence agency	ADJ	InitCap	Area
+2011	NOUN	numeric	Time
+Babar samples	PROPN	InitCap	Tool
+Remote Administration Tools	PROPN	InitCap	Tool
+RATs	PROPN	mixedCaps	Tool
+EvilBunny	NOUN	mixedCaps	Tool
+Babar	PROPN	InitCap	Tool
+Babar malware	PROPN	InitCap	Tool
+Babar	PROPN	InitCap	Tool
+dsound	ADJ	lowercase	Tool
+winmm libraries	NOUN	lowercase	Tool
+G DATA SecurityLabs	NOUN	ALLCAPS	SecTeam
+EvilBunny	NOUN	mixedCaps	Tool
+Babar	PROPN	InitCap	Tool
+TA542	NOUN	mixed	HackOrg
+Emotet	NOUN	InitCap	Tool
+campaigns	NOUN	lowercase	OffAct
+Canadian	ADJ	InitCap	Area
+audiences	NOUN	lowercase	Org
+Emotet	NOUN	InitCap	Tool
+banking Trojan	NOUN	lowercase	Tool
+Cridex	NOUN	InitCap	Tool
+United States	PROPN	InitCap	Area
+campaigns	NOUN	lowercase	OffAct
+Canadian	ADJ	InitCap	Area
+Canadian	ADJ	InitCap	Area
+audiences	NOUN	lowercase	Org
+Emotet activity	NOUN	InitCap	OffAct
+campaigns	NOUN	lowercase	OffAct
+manufacturing	VERB	lowercase	Idus
+healthcare industries	PROPN	lowercase	Idus
+Western European	ADJ	InitCap	Area
+banks	NOUN	lowercase	Idus
+Emotet	NOUN	InitCap	Tool
+Emotet	NOUN	InitCap	Tool
+email logging	NOUN	lowercase	Features
+information stealing	NOUN	lowercase	Features
+bank fraud	PROPN	lowercase	Features
+downloading	VERB	lowercase	Features
+DDoS	PROPN	mixedCaps	Features
+Western European	ADJ	InitCap	Area
+banks	NOUN	lowercase	Idus
+Emotet	NOUN	InitCap	Tool
+email logging	NOUN	lowercase	Features
+information stealing	NOUN	lowercase	Features
+bank fraud	PROPN	lowercase	Features
+downloading	VERB	lowercase	Features
+DDoS	PROPN	mixedCaps	Features
+mid-January 2019	PROPN	mixedCaps	Time
+Emotet-laden emails	NOUN	InitCap	Way
+DanaBot	PROPN	mixedCaps	Tool
+Trojan	NOUN	InitCap	Tool
+banking site web injections	NOUN	lowercase	Features
+stealer functions	NOUN	lowercase	Features
+Proofpoint	NOUN	InitCap	SecTeam
+DanaBot	PROPN	mixedCaps	Tool
+Canada	PROPN	InitCap	Area
+Canada Post	PROPN	InitCap	Org
+themed lures	VERB	lowercase	Way
+May 1	AUX	InitCap	Time
+2019	NOUN	numeric	Time
+FormBook	NOUN	mixedCaps	Tool
+stealer/keylogger	NOUN	lowercase	Tool
+Emotet	NOUN	InitCap	Tool
+email campaigns	NOUN	lowercase	OffAct
+Canada	PROPN	InitCap	Area
+mid-2014	NOUN	mixed	Time
+Bugat	PROPN	InitCap	SamFile
+banking Trojan	NOUN	lowercase	Tool
+MUMMY SPIDER	PROPN	ALLCAPS	HackOrg
+Emotet	NOUN	InitCap	Tool
+Geodo	NOUN	InitCap	Tool
+MUMMY SPIDER	PROPN	ALLCAPS	HackOrg
+Emotet	NOUN	InitCap	Tool
+December 2016	PROPN	InitCap	Time
+banking Trojan	NOUN	lowercase	Tool
+banking Trojans Dridex	NOUN	lowercase	Tool
+Qakbot	PROPN	InitCap	Tool
+information gathering	NOUN	lowercase	Purp
+TeamViewer-based activities	PROPN	mixedCaps	OffAct
+September 2012	PROPN	InitCap	Time
+targeted attack	VERB	lowercase	OffAct
+TeamSpy	PROPN	mixedCaps	OffAct
+TeamViewer tool	PROPN	mixedCaps	Tool
+malware modules	NOUN	lowercase	Tool
+targeted attack	VERB	lowercase	OffAct
+TeamViewer tool	PROPN	mixedCaps	Tool
+malware modules	NOUN	lowercase	Tool
+TeamViewer	PROPN	mixedCaps	Tool
+Sheldor	NOUN	InitCap	OffAct
+attack campaign	NOUN	lowercase	OffAct
+2010	NOUN	numeric	Time
+2011	NOUN	numeric	Time
+Sheldor	NOUN	InitCap	OffAct
+TeamSpy	PROPN	mixedCaps	OffAct
+Microsoft Threat Intelligence	PROPN	InitCap	Org
+attacks	NOUN	lowercase	OffAct
+TERBIUM	PROPN	ALLCAPS	HackOrg
+malware modules	NOUN	lowercase	Tool
+TERBIUM	PROPN	ALLCAPS	HackOrg
+Microsoft Threat Intelligence	PROPN	InitCap	Org
+TERBIUM	PROPN	ALLCAPS	HackOrg
+Depriz	NOUN	InitCap	HackOrg
+Microsoft	PROPN	InitCap	Org
+2012 attacks	NOUN	numeric	OffAct
+TERBIUM	PROPN	ALLCAPS	HackOrg
+November 17	PROPN	InitCap	Time
+2016	NOUN	numeric	Time
+intelligence collection	NOUN	lowercase	Purp
+political	ADJ	lowercase	Idus
+military	NOUN	lowercase	Idus
+UPDATESEE malware	PROPN	ALLCAPS	Tool
+FireEye Intelligence	PROPN	mixedCaps	SecTeam
+February 2016	PROPN	InitCap	Time
+UPDATESEE malware	PROPN	ALLCAPS	Tool
+FireEye Intelligence	PROPN	mixedCaps	SecTeam
+February 2016	PROPN	InitCap	Time
+emails	NOUN	lowercase	Way
+government officials	NOUN	lowercase	Org
+malicious Microsoft Word document	ADJ	lowercase	SamFile
+CVE-2012-0158	NOUN	mixed	Exp
+May 18	AUX	InitCap	Time
+2016	NOUN	numeric	Time
+spear phishing emails	PROPN	lowercase	Way
+Indian	ADJ	InitCap	Area
+government officials	NOUN	lowercase	Org
+CVE-2012-0158	NOUN	mixed	Exp
+Microsoft Word	PROPN	InitCap	SamFile
+Indian Army	ADJ	InitCap	Idus
+email attachment	NOUN	lowercase	Way
+May 18	AUX	InitCap	Time
+2016	NOUN	numeric	Time
+spear phishing emails	PROPN	lowercase	Way
+government officials	NOUN	lowercase	Org
+spear phishing	PROPN	lowercase	Way
+Proofpoint	NOUN	InitCap	SecTeam
+cyber-espionage campaign	ADJ	lowercase	OffAct
+Operation Transparent Tribe	NOUN	InitCap	OffAct
+embassies	NOUN	lowercase	Org
+Saudi Arabia	ADJ	InitCap	Area
+Kazakhstan	PROPN	InitCap	Area
+February 2016	PROPN	InitCap	Time
+army officials	NOUN	lowercase	Org
+WeChat	NOUN	mixedCaps	Tool
+SmeshApp	PROPN	mixedCaps	Tool
+Line	NOUN	InitCap	Tool
+army personnel	NOUN	lowercase	Org
+May 2018	AUX	InitCap	Time
+MYTHIC LEOPARD	NOUN	ALLCAPS	HackOrg
+Pakistan-based	PROPN	InitCap	Area
+Karachi	PROPN	InitCap	Area
+security firm	NOUN	lowercase	Org
+campaign	NOUN	lowercase	OffAct
+military officials	NOUN	lowercase	Org
+spear-phishing emails	NOUN	lowercase	Way
+Adobe Reader vulnerability	NOUN	InitCap	Exp
+CrowdStrike Falcon Intelligence™	PROPN	mixedCaps	SecTeam
+2016	NOUN	numeric	Time
+attack	NOUN	lowercase	OffAct
+hospitality sector	NOUN	lowercase	Org
+disguise custom executables	PROPN	lowercase	Features
+Microsoft	PROPN	InitCap	Org
+Falcon Intelligence	NOUN	InitCap	SecTeam
+MYTHIC LEOPARD	NOUN	ALLCAPS	HackOrg
+July 2017	PROPN	InitCap	Time
+Falcon Intelligence	NOUN	InitCap	SecTeam
+MYTHIC LEOPARD	NOUN	ALLCAPS	HackOrg
+isqlmanager	NOUN	lowercase	Tool
+Waizsar RAT malware families	PROPN	InitCap	Tool
+Patchwork	VERB	InitCap	HackOrg
+Patchwork	VERB	InitCap	HackOrg
+Android malware	PROPN	InitCap	Tool
+attacks	NOUN	lowercase	OffAct
+AndroRAT	ADJ	mixedCaps	Tool
+Trend Micro	NOUN	InitCap	SecTeam
+leading sandbox	VERB	lowercase	Tool
+machine learning technologies	NOUN	lowercase	Tool
+Symantec	ADJ	InitCap	SecTeam
+attack	NOUN	lowercase	OffAct
+Whitefly	ADV	InitCap	HackOrg
+2017	NOUN	numeric	Time
+Whitefly	ADV	InitCap	HackOrg
+land tactics	NOUN	lowercase	Way
+PowerShell scripts	PROPN	mixedCaps	Tool
+mid-2017	NOUN	mixed	Time
+mid-2018	NOUN	mixed	Time
+Whitefly	ADV	InitCap	HackOrg
+targeted attacks	VERB	lowercase	OffAct
+Singapore	PROPN	InitCap	Area
+Whitefly	ADV	InitCap	HackOrg
+healthcare	PROPN	lowercase	Idus
+media	NOUN	lowercase	Idus
+telecommunications	NOUN	lowercase	Idus
+engineering sectors	NOUN	lowercase	Org
+Whitefly	ADV	InitCap	HackOrg
+dropper	NOUN	lowercase	Tool
+malicious.exe	NUM	lowercase	SamFile
+.dll file	PUNCT	lowercase	SamFile
+dropper	NOUN	lowercase	Tool
+Trojan.Vcrodat	PROPN	mixedCaps	Tool
+Whitefly	ADV	InitCap	HackOrg
+search order hijacking	NOUN	lowercase	Tool
+Vcrodat	PROPN	InitCap	Tool
+Vcrodat	PROPN	InitCap	Tool
+Whitefly	ADV	InitCap	HackOrg
+Mimikatz	PROPN	InitCap	Tool
+credentials	NOUN	lowercase	Tool
+Whitefly	ADV	InitCap	HackOrg
+publicly available tools	ADV	lowercase	Tool
+Mimikatz	PROPN	InitCap	Tool
+Hacktool.Mimikatz	NOUN	mixedCaps	Tool
+CVE-2016-0051	NOUN	mixed	Exp
+Vcrodat	PROPN	InitCap	Tool
+Nibatad	NOUN	InitCap	Tool
+Whitefly	ADV	InitCap	HackOrg
+loaders	NOUN	lowercase	Tool
+attacks	NOUN	lowercase	OffAct
+Vcrodat	PROPN	InitCap	Tool
+dropper	NOUN	lowercase	Tool
+Nibatad	NOUN	InitCap	Tool
+May 2017	AUX	InitCap	Time
+December 2018	PROPN	InitCap	Time
+Whitefly	ADV	InitCap	HackOrg
+attacks	NOUN	lowercase	OffAct
+defense	NOUN	lowercase	Idus
+telecoms	NOUN	lowercase	Idus
+energy	NOUN	lowercase	Idus
+Southeast Asia	ADV	InitCap	Area
+Russia	PROPN	InitCap	Area
+Vcrodat	PROPN	InitCap	Tool
+attack	NOUN	lowercase	OffAct
+UK-based	PROPN	mixedCaps	Area
+hospitality sector	NOUN	lowercase	Org
+Whitefly	ADV	InitCap	HackOrg
+chemical	PROPN	lowercase	Idus
+think tank	VERB	lowercase	Org
+WICKED PANDA	PROPN	ALLCAPS	HackOrg
+custom tools	NOUN	lowercase	Tool
+WICKED PANDA	PROPN	ALLCAPS	HackOrg
+WICKED SPIDER	PROPN	ALLCAPS	HackOrg
+criminal activity	PROPN	lowercase	OffAct
+WICKED SPIDER	PROPN	ALLCAPS	HackOrg
+technology companies	NOUN	lowercase	Org
+Germany	PROPN	InitCap	Area
+Indonesia	PROPN	InitCap	Area
+Russian	ADJ	InitCap	Area
+Federation	PROPN	InitCap	Area
+South Korea	ADJ	InitCap	Area
+Sweden	PROPN	InitCap	Area
+Thailand	PROPN	InitCap	Area
+Turkey	PROPN	InitCap	Area
+United States	PROPN	InitCap	Area
+Objective-See	NOUN	mixedCaps	SecTeam
+WINDSHIFT samples	PROPN	ALLCAPS	Tool
+Unit 42	NOUN	InitCap	SecTeam
+attacker activity	PROPN	lowercase	OffAct
+WINDSHIFT attack	PROPN	ALLCAPS	OffAct
+Middle	ADJ	InitCap	Area
+Eastern	PROPN	InitCap	Area
+government agency	NOUN	lowercase	Org
+WINDSHIFT activity	PROPN	ALLCAPS	OffAct
+government agency	NOUN	lowercase	Org
+WIZARD SPIDER threat group	PROPN	ALLCAPS	HackOrg
+Russia-based	PROPN	InitCap	Area
+TrickBot banking malware	NOUN	mixedCaps	Tool
+Whitefly	ADV	InitCap	HackOrg
+attacks	NOUN	lowercase	OffAct
+Trojan.Nibatad	PROPN	mixedCaps	Tool
+LUNAR SPIDER	PROPN	ALLCAPS	HackOrg
+BokBot	PROPN	mixedCaps	Tool
+2007	NOUN	numeric	Time
+technology	NOUN	lowercase	Idus
+Waledac	PROPN	InitCap	Tool
+peer-to-peer communications	NOUN	lowercase	Way
+BokBot	PROPN	mixedCaps	Tool
+TrickBot	NOUN	mixedCaps	Tool
+2017	NOUN	numeric	Time
+TrickBot modules	NOUN	mixedCaps	Tool
+campaign	NOUN	lowercase	OffAct
+Kelihos	PROPN	InitCap	Tool
+attack	NOUN	lowercase	OffAct
+March 14	PROPN	InitCap	Time
+2017	NOUN	numeric	Time
+WINDSHIFT activity	PROPN	ALLCAPS	OffAct
+Unit 42	NOUN	InitCap	SecTeam
+January	PROPN	InitCap	Time
+May of 2018	AUX	InitCap	Time
+Kelihos spam botnet	PROPN	InitCap	Tool
+CraP2P	NOUN	mixed	SamFile
+Locky	PROPN	InitCap	Tool
+Dridex	PROPN	InitCap	Tool
+spam campaigns	NOUN	lowercase	OffAct
+attack	NOUN	lowercase	OffAct
+January of 2018	PROPN	InitCap	Time
+WINDTAIL sample	PROPN	ALLCAPS	Tool
+WINDSHIFT	PROPN	ALLCAPS	Tool
+government agency	NOUN	lowercase	Org
+Unit 42	NOUN	InitCap	SecTeam
+WINDSHIFT activity	PROPN	ALLCAPS	OffAct
+CrowdStrike Falcon Intelligence	PROPN	mixedCaps	SecTeam
+ZOMBIE SPIDER	NOUN	ALLCAPS	HackOrg
+Animal Farm	NOUN	InitCap	HackOrg
+2009	NOUN	numeric	Time
+2007	NOUN	numeric	Time
+Kaspersky	PROPN	InitCap	SecTeam
+campaigns	NOUN	lowercase	OffAct
+Animal Farm group	NOUN	InitCap	HackOrg
+Animal Farm	NOUN	InitCap	HackOrg
+Casper Trojan	ADV	InitCap	Tool
+watering-hole attack	NOUN	lowercase	OffAct
+zero-day attack	NUM	lowercase	OffAct
+Kaspersky Lab	PROPN	InitCap	SecTeam
+users	NOUN	lowercase	Org
+Tafacalou	NOUN	InitCap	Tool
+TFC	PROPN	ALLCAPS	Tool
+Transporter	NOUN	InitCap	Tool
+Babar	PROPN	InitCap	Tool
+Dino	NOUN	InitCap	Tool
+Tafacalou	NOUN	InitCap	Tool
+Syria	PROPN	InitCap	Area
+Iran	PROPN	InitCap	Area
+Malaysia	PROPN	InitCap	Area
+USA	PROPN	ALLCAPS	Area
+China	PROPN	InitCap	Area
+Turkey	PROPN	InitCap	Area
+Netherlands	NOUN	InitCap	Area
+Germany	PROPN	InitCap	Area
+Great Britain	ADJ	InitCap	Area
+Russia	PROPN	InitCap	Area
+Sweden	PROPN	InitCap	Area
+Austria	PROPN	InitCap	Area
+Algeria	PROPN	InitCap	Area
+Israel	PROPN	InitCap	Area
+Iraq	PROPN	InitCap	Area
+Morocco	PROPN	InitCap	Area
+New Zealand	ADJ	InitCap	Area
+Ukraine	PROPN	InitCap	Area
+2013	NOUN	numeric	Time
+COSEINC	NOUN	ALLCAPS	SecTeam
+FireEye	PROPN	mixedCaps	SecTeam
+attacks	NOUN	lowercase	OffAct
+Bisonal	PROPN	InitCap	Tool
+Japanese	ADJ	InitCap	Area
+October 2017	PROPN	InitCap	Time
+AhnLab	NOUN	mixedCaps	SecTeam
+Operation Bitter Biscuit	NOUN	InitCap	OffAct
+attack campaign	NOUN	lowercase	OffAct
+South Korea	ADJ	InitCap	Area
+Japan	PROPN	InitCap	Area
+India	PROPN	InitCap	Area
+Russia	PROPN	InitCap	Area
+Bisonal	PROPN	InitCap	Tool
+Bioazih	NOUN	InitCap	Tool
+Dexbia	PROPN	InitCap	Tool
+Bisonal	PROPN	InitCap	Tool
+attacks	NOUN	lowercase	OffAct
+Russia	PROPN	InitCap	Area
+South Korea	ADJ	InitCap	Area
+Bisonal	PROPN	InitCap	Tool
+attacks	NOUN	lowercase	OffAct
+Russia	PROPN	InitCap	Area
+South Korea	ADJ	InitCap	Area
+U.S.	PROPN	ALLCAPS	Area
+Japan	PROPN	InitCap	Area
+Philippines	NOUN	InitCap	Area
+Argentina	PROPN	InitCap	Area
+June 20	PROPN	InitCap	Time
+Gelup	NOUN	InitCap	SamFile
+i.cmd”	PROPN	lowercase	SamFile
+exit.exe”	X	lowercase	SamFile
+rtegre.exe”	X	lowercase	SamFile
+veter1605_MAPS_10cr0.exe”	NOUN	mixed	SamFile
+Neptun	PROPN	InitCap	SamFile
+listen for commands	VERB	lowercase	Features
+attackers	NOUN	lowercase	HackOrg
+malware	NOUN	lowercase	SamFile
+WebDAV	VERB	mixedCaps	Tool
+RAR archive	VERB	ALLCAPS	SamFile
+PowerShell script	PROPN	mixedCaps	Tool
+malicious DLL files	ADJ	lowercase	SamFile
+McAfee	NOUN	mixedCaps	SecTeam
+Lazarus	PROPN	InitCap	HackOrg
+malicious document	ADJ	lowercase	SamFile
+Lazarus	PROPN	InitCap	HackOrg
+2017	NOUN	numeric	Time
+360 Threat Intelligence Center	NOUN	numeric	SecTeam
+njRAT backdoor	ADP	mixedCaps	SamFile
+Kaspersky	PROPN	InitCap	SecTeam
+backdoor	NOUN	lowercase	SamFile
+Turla	PROPN	InitCap	HackOrg
+Trend Micro	NOUN	InitCap	SecTeam
+MuddyWater’s	PROPN	mixedCaps	HackOrg
+POWERSTATS v3	PROPN	ALLCAPS	SamFile
+ESET	PROPN	ALLCAPS	SecTeam
+sample	NOUN	lowercase	SamFile
+OceanLotus	PROPN	mixedCaps	HackOrg
+uploaded to VirusTotal	VERB	lowercase	Way
+spear phishing attacks	PROPN	lowercase	OffAct
+.doc files	PUNCT	lowercase	Tool
+RTF documents	PROPN	ALLCAPS	SamFile
+CVE-2017-8570	NOUN	mixed	Exp
+Composite	NOUN	InitCap	Exp
+Moniker	NOUN	InitCap	Exp
+attackers	NOUN	lowercase	HackOrg
+spear-phishing email	NOUN	lowercase	Way
+MS Word document	PROPN	ALLCAPS	SamFile
+Word document	NOUN	InitCap	SamFile
+CVE-2012-0158	NOUN	mixed	Exp
+attackers	NOUN	lowercase	HackOrg
+MS PowerPoint document	PROPN	ALLCAPS	SamFile
+CVE-2014-6352	NOUN	mixed	Exp
+Patchwork	VERB	InitCap	HackOrg
+MS PowerPoint document	PROPN	ALLCAPS	SamFile
+CVE-2014-6352	NOUN	mixed	Exp
+malicious documents	ADJ	lowercase	SamFile
+activity	NOUN	lowercase	OffAct
+Pakistan Army	PROPN	InitCap	Idus
+Pakistan	PROPN	InitCap	Area
+Pakistan	PROPN	InitCap	Area
+Unit 42	NOUN	InitCap	SecTeam
+EPS files	PROPN	ALLCAPS	SamFile
+CVE-2015-2545	NOUN	mixed	Exp
+CVE-2017-0261	NOUN	mixed	Exp
+Pitty Tiger group	NOUN	InitCap	HackOrg
+Microsoft Office Word document	PROPN	InitCap	SamFile
+CVE-2012-0158	NOUN	mixed	Exp
+threat group	NOUN	lowercase	HackOrg
+Backdoor.APT.Pgift	NOUN	mixedCaps	SamFile
+Backdoor.APT.PittyTiger1.3	NOUN	mixed	SamFile
+CT RAT	PROPN	ALLCAPS	Tool
+second-stage backdoor	ADJ	lowercase	Tool
+Enfal malware	NOUN	InitCap	Tool
+2011	NOUN	numeric	Time
+Backdoor.APT.Pgift	NOUN	mixedCaps	SamFile
+spearphishing attacks	VERB	lowercase	OffAct
+ActiveX control	X	mixedCaps	Tool
+JavaScript file	PROPN	mixedCaps	SamFile
+CVE-2013-7331	NOUN	mixed	Exp
+2013	NOUN	numeric	Time
+malicious document	ADJ	lowercase	SamFile
+spear phishing email message	PROPN	lowercase	Way
+apply patches	VERB	lowercase	Features
+CreateRemoteThread	VERB	mixedCaps	SamFile
+WriteProcessMemory	PROPN	mixedCaps	SamFile
+PLATINUM	NOUN	ALLCAPS	HackOrg
+AMT Technology SDK	PROPN	ALLCAPS	Tool
+Redirection Library API	NOUN	InitCap	Tool
+imrsdk.dll	X	lowercase	SamFile
+Hermes	NOUN	InitCap	Tool
+bitsran.exe	X	lowercase	SamFile
+RSW7B37.tmp	NOUN	mixed	SamFile
+Proofpoint	NOUN	InitCap	SecTeam
+Russian-speaking	ADJ	InitCap	Area
+Turla	PROPN	InitCap	HackOrg
+dropper	NOUN	lowercase	Tool
+JS/KopiLuwak	PROPN	mixedCaps	SamFile
+Trend Micro‘s	NOUN	InitCap	SecTeam
+June	PROPN	InitCap	Time
+TA505	NOUN	mixed	HackOrg
+.NET downloader	PUNCT	ALLCAPS	Tool
+ServHelper	PROPN	mixedCaps	Tool
+.DLL variant	PUNCT	ALLCAPS	SamFile
+campaign	NOUN	lowercase	OffAct
+Jan. 23	PROPN	InitCap	Time
+2018	NOUN	numeric	Time
+Feb. 26	PROPN	InitCap	Time
+2018	NOUN	numeric	Time
+VBS file	PROPN	ALLCAPS	SamFile
+INI file	PROPN	ALLCAPS	SamFile
+INI file	PROPN	ALLCAPS	SamFile
+PowerShell	PROPN	mixedCaps	Tool
+VBS file	PROPN	ALLCAPS	SamFile
+WScript.exe	ADP	mixedCaps	SamFile
+cmstp.exe	X	lowercase	SamFile
+cmstp.exe	X	lowercase	SamFile
+SCT file	PROPN	ALLCAPS	SamFile
+INF file	VERB	ALLCAPS	SamFile
+files:Defender.sct	NOUN	mixedCaps	SamFile
+scriptlet	VERB	lowercase	SamFile
+file	NOUN	lowercase	SamFile
+malware	NOUN	lowercase	SamFile
+PingCastle	NOUN	mixedCaps	SamFile
+EternalBlue	PROPN	mixedCaps	SamFile
+document files	NOUN	lowercase	SamFile
+vulnerabilities	NOUN	lowercase	Exp
+malware	NOUN	lowercase	SamFile
+The Onion Router	PRON	InitCap	Way
+InstallUtiil.exe	NUM	mixedCaps	SamFile
+Tor	NOUN	InitCap	SamFile
+anonymizer	PROPN	lowercase	SamFile
+binary files	ADJ	lowercase	SamFile
+imain.bin	X	lowercase	SamFile
+it	PRON	lowercase	SamFile
+simplify the overall graph	VERB	lowercase	Features
+make analysis easier	VERB	lowercase	Features
+FireEye	PROPN	mixedCaps	SecTeam
+BADRABBIT	NOUN	ALLCAPS	SamFile
+BACKSWING	PROPN	ALLCAPS	Tool
+Oct. 24	PROPN	InitCap	Time
+FireEye	PROPN	mixedCaps	SecTeam
+(install_flash_player.exe)	PUNCT	lowercase	SamFile
+ransomware	PROPN	lowercase	SamFile
+1:FireEye	NOUN	mixed	SecTeam
+BACKSWING	PROPN	ALLCAPS	SamFile
+2016	NOUN	numeric	Time
+hospitality organization	NOUN	lowercase	Org
+government	NOUN	lowercase	Org
+Montenegro	VERB	InitCap	Area
+FireEye	PROPN	mixedCaps	SecTeam
+BACKSWING	PROPN	ALLCAPS	Org
+BADRABBIT	NOUN	ALLCAPS	SamFile
+BACKSWING	PROPN	ALLCAPS	Org
+FireEye	PROPN	mixedCaps	SecTeam
+BADRABBIT dropper	NOUN	ALLCAPS	SamFile
+Harvested credentials	VERB	InitCap	Way
+Mimikatz	PROPN	InitCap	SamFile
+infpub.dat	X	lowercase	SamFile
+specific file	ADJ	lowercase	SamFile
+entry	NOUN	lowercase	SamFile
+Mon Dec 04	PROPN	InitCap	Time
+2017	NOUN	numeric	Time
+Reverse Engineering	VERB	InitCap	Tool
+Nick Harbour	PROPN	InitCap	Tool
+spear-phishing emails	NOUN	lowercase	Way
+Microsoft Word attachment	PROPN	InitCap	SamFile
+CVE-2017-0199	NOUN	mixed	Exp
+ZeroT Trojan	PROPN	mixedCaps	Tool
+PlugX Remote Access Trojan	PROPN	mixedCaps	Tool
+RAT	PROPN	ALLCAPS	Tool
+spear-phishing emails	NOUN	lowercase	Way
+Microsoft Word attachment	PROPN	InitCap	SamFile
+CVE-2017-0199	NOUN	mixed	Exp
+ZeroT Trojan	PROPN	mixedCaps	Tool
+PlugX Remote Access Trojan	PROPN	mixedCaps	Tool
+RAT	PROPN	ALLCAPS	Tool
+malicious.DOC	ADJ	mixedCaps	SamFile
+Microsoft Common Controls vulnerability	PROPN	InitCap	Exp
+CVE-2012-0158	NOUN	mixed	Exp
+documents	NOUN	lowercase	SamFile
+spear-phishing e-mails	NOUN	lowercase	Way
+attacks	NOUN	lowercase	OffAct
+CVE-2012-0158	NOUN	mixed	Exp
+Microsoft Word vulnerabilities	PROPN	InitCap	Exp
+document	NOUN	lowercase	SamFile
+CVE-2012-0158	NOUN	mixed	Exp
+CVE-2013-3906	NOUN	mixed	Exp
+CVE-2014-1761	NOUN	mixed	Exp
+Patchwork	VERB	InitCap	HackOrg
+RTF files	PROPN	ALLCAPS	SamFile
+CVE-2017-8570	NOUN	mixed	Exp
+CVE2017-11882	NOUN	mixed	Exp
+HTML Application	NOUN	ALLCAPS	Tool
+HTA	PROPN	ALLCAPS	SamFile
+mshta.exe	X	lowercase	SamFile
+Kaspersky Lab	PROPN	InitCap	SecTeam
+Microsoft Office exploits	PROPN	InitCap	Exp
+spear-phishing attacks	NOUN	lowercase	OffAct
+Exploit.MSWord.CVE-2010-333	NOUN	mixed	SamFile
+Exploit.Win32.CVE-2012-0158	NOUN	mixed	SamFile
+files	NOUN	lowercase	SamFile
+Microsoft Office vulnerability	PROPN	InitCap	Exp
+CVE-2012-0158	NOUN	mixed	Exp
+take control	VERB	lowercase	Features
+CVE-2017-0143	NOUN	mixed	Exp
+tools—EternalRomance	NOUN	mixedCaps	SamFile
+EternalSynergy—that	PROPN	mixedCaps	SamFile
+April 2017	PROPN	InitCap	Time
+RTF	PROPN	ALLCAPS	SamFile
+CVE-2017_1882	NOUN	mixed	Exp
+eqnedt32.exe	NOUN	mixed	SamFile
+sample	NOUN	lowercase	SamFile
+CVE-2017-11882	NOUN	mixed	Exp
+CVE-2018-0802	NOUN	mixed	Exp
+RTF files	PROPN	ALLCAPS	SamFile
+CVE-2018-0798	NOUN	mixed	Exp
+Anomali	ADJ	InitCap	SecTeam
+ITW	PROPN	ALLCAPS	SamFile
+CVE-2018-0798	NOUN	mixed	Exp
+CVE-2017-11882	NOUN	mixed	Exp
+'NavShExt.dll'	PUNCT	mixedCaps	SamFile
+iexplore.exe	NOUN	lowercase	SamFile
+CVE-2017-1182	NOUN	mixed	Exp
+Microsoft Equation Editor	PROPN	InitCap	SamFile
+'EQNEDT32.exe'	NOUN	mixed	SamFile
+BalkanDoor	PROPN	mixedCaps	SamFile
+2019	NOUN	numeric	Time
+CVE-2018-20250	NOUN	mixed	Exp
+China Chopper	PROPN	InitCap	SamFile
+CVE-2015-0062	NOUN	mixed	Exp
+CVE-2015-1701	NOUN	mixed	Exp
+CVE-2016-0099	NOUN	mixed	Exp
+attacker	PROPN	lowercase	HackOrg
+archive	NOUN	lowercase	SamFile
+vulnerability	NOUN	lowercase	Exp
+emails	NOUN	lowercase	Way
+government officials	NOUN	lowercase	Org
+malicious Microsoft Word document	ADJ	lowercase	SamFile
+CVE-2012-0158	NOUN	mixed	Exp
+security firm	NOUN	lowercase	Org
+campaign	NOUN	lowercase	OffAct
+military officials	NOUN	lowercase	Org
+spear-phishing emails	NOUN	lowercase	Way
+Adobe Reader vulnerability	NOUN	InitCap	Exp
+PLATINUM	NOUN	ALLCAPS	HackOrg
+spear phishing tactics	PROPN	lowercase	Way
+phishing	VERB	lowercase	Way
+specific individuals	ADJ	lowercase	Org
+zero-day exploits	NUM	lowercase	Exp
+group	NOUN	lowercase	HackOrg
+spear phishing tactics	PROPN	lowercase	Way
+phishing	VERB	lowercase	Way
+specific individuals	ADJ	lowercase	Org
+zero-day exploits	NUM	lowercase	Exp
+Carbanak	NOUN	InitCap	Exp
+campaign	NOUN	lowercase	OffAct
+criminals	NOUN	lowercase	HackOrg
+APT techniques	PROPN	ALLCAPS	Way
+financial industry	ADJ	lowercase	Idus
+customers	NOUN	lowercase	Org
+Carbanak	NOUN	InitCap	Exp
+consumer	NOUN	lowercase	Org
+Europe	PROPN	InitCap	Area
+Russia	PROPN	InitCap	Area
+Carberp	PROPN	InitCap	Tool
+September	PROPN	InitCap	Time
+CSIS	PROPN	ALLCAPS	SecTeam
+Carbanak	NOUN	InitCap	Exp
+customers	NOUN	lowercase	Org
+PIVY	PROPN	ALLCAPS	Tool
+2011 campaign	NOUN	numeric	OffAct
+chemical makers	PROPN	lowercase	Org
+government agencies	NOUN	lowercase	Org
+defense contractors	NOUN	lowercase	Org
+attackers	NOUN	lowercase	HackOrg
+zero-day vulnerability	NUM	lowercase	Exp
+PIVY	PROPN	ALLCAPS	Tool
+2012	NOUN	numeric	Time
+Carbanak	NOUN	InitCap	Exp
+campaign	NOUN	lowercase	OffAct
+criminals	NOUN	lowercase	HackOrg
+APT techniques	PROPN	ALLCAPS	Way
+financial industry	ADJ	lowercase	Idus
+customers	NOUN	lowercase	Org
+Carbanak	NOUN	InitCap	Exp
+consumer	NOUN	lowercase	Org
+Europe	PROPN	InitCap	Area
+Russia	PROPN	InitCap	Area
+Carberp	PROPN	InitCap	Tool
+September	PROPN	InitCap	Time
+CSIS	PROPN	ALLCAPS	SecTeam
+Carbanak	NOUN	InitCap	Exp
+customers	NOUN	lowercase	Org
+APT41	NOUN	mixed	HackOrg
+injected malicious code	VERB	lowercase	Way
+circumventing	VERB	lowercase	Purp
+APT41	NOUN	mixed	HackOrg
+TeamViewer	PROPN	mixedCaps	Tool
+transfer malware	NOUN	lowercase	Purp
+APT41	NOUN	mixed	HackOrg
+APT41	NOUN	mixed	HackOrg
+payment services	NOUN	lowercase	Idus
+handling in-game transactions	VERB	lowercase	Purp
+APT41	NOUN	mixed	HackOrg
+POISONPLUG	NOUN	ALLCAPS	Tool
+deploy	VERB	lowercase	Purp
+HIGHNOON	PROPN	ALLCAPS	Tool
+APT41	NOUN	mixed	HackOrg
+tasked	VERB	lowercase	Purp
+APT41	NOUN	mixed	HackOrg
+reserves more advanced TTPs	NOUN	lowercase	Purp
+BITTER APT	ADJ	ALLCAPS	HackOrg
+steal	VERB	lowercase	Purp
+group	NOUN	lowercase	HackOrg
+stolen gigabytes	VERB	lowercase	Purp
+military	NOUN	lowercase	Idus
+organizations	NOUN	lowercase	Idus
+They	PRON	InitCap	HackOrg
+military	NOUN	lowercase	Idus
+stealing specific files	VERB	lowercase	Purp
+describe navigation routes	VERB	lowercase	Purp
+SectorJ04	NOUN	mixed	HackOrg
+spear phishing	PROPN	lowercase	Way
+spread malicious	VERB	lowercase	Purp
+downloaded	VERB	lowercase	Purp
+attacker’s	PROPN	lowercase	HackOrg
+Group-IB	PROPN	mixedCaps	SecTeam
+deliver	VERB	lowercase	Purp
+launch	NOUN	lowercase	Purp
+Silence’s	NOUN	InitCap	HackOrg
+hackers	NOUN	lowercase	HackOrg
+placing their malware	VERB	lowercase	Purp
+APT10	NOUN	mixed	HackOrg
+employ	VERB	lowercase	Way
+confuse	NOUN	lowercase	Purp
+hackers	NOUN	lowercase	HackOrg
+control over	NOUN	lowercase	Purp
+threat actors	NOUN	lowercase	HackOrg
+move	VERB	lowercase	Purp
+stolen credentials	VERB	lowercase	Purp
+exploiting	VERB	lowercase	Purp
+FIN7	NOUN	mixed	HackOrg
+various companies	ADJ	lowercase	Org
+get access	VERB	lowercase	Purp
+financial	ADJ	lowercase	Idus
+Alpha’s	NOUN	InitCap	HackOrg
+provide personal shipping	VERB	lowercase	Purp
+phishing	VERB	lowercase	Way
+collect	VERB	lowercase	Purp
+Scattered Canary	VERB	InitCap	HackOrg
+phishing	VERB	lowercase	Way
+compromise enterprise credentials	NOUN	lowercase	Purp
+March 2019	PROPN	InitCap	Time
+Turla	PROPN	InitCap	HackOrg
+bypass	PROPN	lowercase	Purp
+Azazel	PROPN	InitCap	Tool
+Winnti developers	VERB	InitCap	HackOrg
+decode	PROPN	lowercase	Purp
+embedded	VERB	lowercase	Purp
+Kaspersky	PROPN	InitCap	SecTeam
+Lazarus	PROPN	InitCap	HackOrg
+mobile gaming	PROPN	lowercase	Idus
+South Korea	ADJ	InitCap	Area
+stealing	VERB	lowercase	Purp
+application	NOUN	lowercase	Purp
+APT19	NOUN	mixed	HackOrg
+Microsoft Excel files	PROPN	InitCap	SamFile
+deliver	VERB	lowercase	Purp
+data-stealing	NOUN	lowercase	Purp
+CARBANAK	PROPN	ALLCAPS	SamFile
+them	PRON	lowercase	SamFile
+using virtual private network services	VERB	lowercase	Features
+ensure anonymity	VERB	lowercase	Purp
+obfuscate criminal operations	VERB	lowercase	Purp
+Pony DLL	PROPN	InitCap	SamFile
+Vawtrak	PROPN	InitCap	SamFile
+data theft	NOUN	lowercase	Features
+connect	VERB	lowercase	Features
+command	NOUN	lowercase	Purp
+control (C2) server	NOUN	lowercase	Purp
+Pony	PROPN	InitCap	SamFile
+Vawtrak	PROPN	InitCap	SamFile
+steal data	VERB	lowercase	Purp
+Ploutus-D	NOUN	mixedCaps	SamFile
+(K3A.Platform.dll)	NOUN	mixed	SamFile
+interact	VERB	lowercase	Purp
+DarkPulsar	PROPN	mixedCaps	Tool
+backdoor	NOUN	lowercase	Tool
+sipauth32.tsp	NOUN	mixed	SamFile
+provides remote control	VERB	lowercase	Purp
+campaign	NOUN	lowercase	OffAct
+APT32	NOUN	mixed	HackOrg
+social engineering emails	ADJ	lowercase	Way
+Microsoft ActiveMime file	PROPN	InitCap	SamFile
+deliver malicious macros	VERB	lowercase	Purp
+group	NOUN	lowercase	HackOrg
+legitimate administration tools	ADJ	lowercase	Tool
+fly under the radar	VERB	lowercase	Purp
+malicious activity	ADJ	lowercase	OffAct
+PittyTiger	PROPN	mixedCaps	HackOrg
+Heartbleed vulnerability	VERB	InitCap	Exp
+get valid credentials	VERB	lowercase	Purp
+Heartbleed vulnerability	VERB	InitCap	Exp
+get valid credentials	VERB	lowercase	Purp
+CVE-2017-10271	NOUN	mixed	Exp
+PowerShell	PROPN	mixedCaps	Tool
+download	NOUN	lowercase	Purp
+executing	VERB	lowercase	Way
+using ShellExecute()	VERB	lowercase	Way
+APT28	NOUN	mixed	HackOrg
+EternalBlue exploit	PROPN	mixedCaps	Exp
+open source tool	ADJ	lowercase	Tool
+Responder	NOUN	InitCap	Tool
+spread laterally through networks	VERB	lowercase	Purp
+Carbanak	NOUN	InitCap	Exp
+Carberp	PROPN	InitCap	Tool
+espionage	NOUN	lowercase	HackOrg
+data exfiltration	NOUN	lowercase	Purp
+provide remote access	VERB	lowercase	Purp
+Carbanak	NOUN	InitCap	Exp
+CVE-2013-3660	NOUN	mixed	Exp
+local privilege escalation	ADJ	lowercase	Purp
+connections to the infected computer	NOUN	lowercase	Purp
+Remote Desktop Protocol	PROPN	InitCap	Tool
+RDP	NOUN	ALLCAPS	Tool
+Carbanak	NOUN	InitCap	Exp
+February 2015	PROPN	InitCap	Time
+Carbanak	NOUN	InitCap	Exp
+cyber-criminal gang	NOUN	lowercase	HackOrg
+APT techniques	PROPN	ALLCAPS	Way
+steal millions of dollars	VERB	lowercase	Purp
+financial institutions	ADJ	lowercase	Org
+‘Operation Sheep’	PUNCT	mixedCaps	HackOrg
+massive data stealing	ADJ	lowercase	Purp
+Man-in-the-Disk	NOUN	mixedCaps	Exp
+spear-phishing emails	NOUN	lowercase	Way
+Microsoft Word attachment	PROPN	InitCap	SamFile
+CVE-2017-0199	NOUN	mixed	Exp
+ZeroT Trojan	PROPN	mixedCaps	Tool
+PlugX Remote Access Trojan	PROPN	mixedCaps	Tool
+RAT	PROPN	ALLCAPS	Tool
+spear-phishing emails	NOUN	lowercase	Way
+Microsoft Word attachment	PROPN	InitCap	SamFile
+CVE-2017-0199	NOUN	mixed	Exp
+ZeroT Trojan	PROPN	mixedCaps	Tool
+PlugX Remote Access Trojan	PROPN	mixedCaps	Tool
+RAT	PROPN	ALLCAPS	Tool
+malicious.DOC	ADJ	mixedCaps	SamFile
+Microsoft Common Controls vulnerability	PROPN	InitCap	Exp
+CVE-2012-0158	NOUN	mixed	Exp
+documents	NOUN	lowercase	SamFile
+spear-phishing e-mails	NOUN	lowercase	Way
+attacks	NOUN	lowercase	OffAct
+CVE-2012-0158	NOUN	mixed	Exp
+Microsoft Word vulnerabilities	PROPN	InitCap	Exp
+document	NOUN	lowercase	SamFile
+CVE-2012-0158	NOUN	mixed	Exp
+CVE-2013-3906	NOUN	mixed	Exp
+CVE-2014-1761	NOUN	mixed	Exp
+Patchwork	VERB	InitCap	HackOrg
+RTF files	PROPN	ALLCAPS	SamFile
+CVE-2017-8570	NOUN	mixed	Exp
+CVE2017-11882	NOUN	mixed	Exp
+HTML Application	NOUN	ALLCAPS	Tool
+HTA	PROPN	ALLCAPS	SamFile
+mshta.exe	X	lowercase	SamFile
+Kaspersky Lab	PROPN	InitCap	SecTeam
+Microsoft Office exploits	PROPN	InitCap	Exp
+spear-phishing attacks	NOUN	lowercase	OffAct
+Exploit.MSWord.CVE-2010-333	NOUN	mixed	SamFile
+Exploit.Win32.CVE-2012-0158	NOUN	mixed	SamFile
+files	NOUN	lowercase	SamFile
+Microsoft Office vulnerability	PROPN	InitCap	Exp
+CVE-2012-0158	NOUN	mixed	Exp
+take control	VERB	lowercase	Features
+CVE-2017-0143	NOUN	mixed	Exp
+tools—EternalRomance	NOUN	mixedCaps	SamFile
+EternalSynergy—that	PROPN	mixedCaps	SamFile
+April 2017	PROPN	InitCap	Time
+RTF	PROPN	ALLCAPS	SamFile
+CVE-2017_1882	NOUN	mixed	Exp
+eqnedt32.exe	NOUN	mixed	SamFile
+sample	NOUN	lowercase	SamFile
+CVE-2017-11882	NOUN	mixed	Exp
+CVE-2018-0802	NOUN	mixed	Exp
+RTF files	PROPN	ALLCAPS	SamFile
+CVE-2018-0798	NOUN	mixed	Exp
+Anomali	ADJ	InitCap	SecTeam
+ITW	PROPN	ALLCAPS	SamFile
+CVE-2018-0798	NOUN	mixed	Exp
+CVE-2017-11882	NOUN	mixed	Exp
+'NavShExt.dll'	PUNCT	mixedCaps	SamFile
+iexplore.exe	NOUN	lowercase	SamFile
+CVE-2017-1182	NOUN	mixed	Exp
+Microsoft Equation Editor	PROPN	InitCap	SamFile
+'EQNEDT32.exe'	NOUN	mixed	SamFile
+BalkanDoor	PROPN	mixedCaps	SamFile
+2019	NOUN	numeric	Time
+CVE-2018-20250	NOUN	mixed	Exp
+China Chopper	PROPN	InitCap	SamFile
+CVE-2015-0062	NOUN	mixed	Exp
+CVE-2015-1701	NOUN	mixed	Exp
+CVE-2016-0099	NOUN	mixed	Exp
+attacker	PROPN	lowercase	HackOrg
+archive	NOUN	lowercase	SamFile
+vulnerability	NOUN	lowercase	Exp
+emails	NOUN	lowercase	Way
+malicious Microsoft Word document	ADJ	lowercase	SamFile
+CVE-2012-0158	NOUN	mixed	Exp
+security firm	NOUN	lowercase	Org
+campaign	NOUN	lowercase	OffAct
+spear-phishing emails	NOUN	lowercase	Way
+Adobe Reader vulnerability	NOUN	InitCap	Exp
+PLATINUM	NOUN	ALLCAPS	HackOrg
+spear phishing tactics	PROPN	lowercase	Way
+phishing	VERB	lowercase	Way
+zero-day exploits	NUM	lowercase	Exp
+group	NOUN	lowercase	HackOrg
+spear phishing tactics	PROPN	lowercase	Way
+phishing	VERB	lowercase	Way
+zero-day exploits	NUM	lowercase	Exp
+Carbanak	NOUN	InitCap	Exp
+campaign	NOUN	lowercase	OffAct
+criminals	NOUN	lowercase	HackOrg
+APT techniques	PROPN	ALLCAPS	Way
+financial industry	ADJ	lowercase	Idus
+Carbanak	NOUN	InitCap	Exp
+Europe	PROPN	InitCap	Area
+Russia	PROPN	InitCap	Area
+Carberp	PROPN	InitCap	Tool
+September	PROPN	InitCap	Time
+CSIS	PROPN	ALLCAPS	SecTeam
+Carbanak	NOUN	InitCap	Exp
+PIVY	PROPN	ALLCAPS	Tool
+2011 campaign	NOUN	numeric	OffAct
+government agencies	NOUN	lowercase	Org
+defense contractors	NOUN	lowercase	Org
+attackers	NOUN	lowercase	HackOrg
+zero-day vulnerability	NUM	lowercase	Exp
+PIVY	PROPN	ALLCAPS	Tool
+2012	NOUN	numeric	Time
+Carbanak	NOUN	InitCap	Exp
+campaign	NOUN	lowercase	OffAct
+criminals	NOUN	lowercase	HackOrg
+APT techniques	PROPN	ALLCAPS	Way
+financial industry	ADJ	lowercase	Idus
+Carbanak	NOUN	InitCap	Exp
+Europe	PROPN	InitCap	Area
+Russia	PROPN	InitCap	Area
+Carberp	PROPN	InitCap	Tool
+September	PROPN	InitCap	Time
+CSIS	PROPN	ALLCAPS	SecTeam
+Carbanak	NOUN	InitCap	Exp
+malware	NOUN	lowercase	SamFile
+VMProtect;	NOUN	mixedCaps	Features
+malware	NOUN	lowercase	SamFile
+communicating with the C&C	VERB	lowercase	Features
+malware	NOUN	lowercase	SamFile
+provides	VERB	lowercase	Features
+CMD/PowerShell	PROPN	mixedCaps	Tool
+attackers	NOUN	lowercase	HackOrg
+execute scripts/commands	VERB	lowercase	Purp
+SWAnalytics	NOUN	mixedCaps	SamFile
+uploads	NOUN	lowercase	Features
+module	NOUN	lowercase	SamFile
+application installation	NOUN	lowercase	Features
+remove	VERB	lowercase	Features
+update	NOUN	lowercase	Features
+phone restart	NOUN	lowercase	Features
+battery charge	NOUN	lowercase	Features
+contacts data	NOUN	lowercase	Features
+SWAnalytics	NOUN	mixedCaps	SamFile
+SWAnalytics	NOUN	mixedCaps	SamFile
+scan	PROPN	lowercase	Features
+listing sub-folders	VERB	lowercase	Features
+SWAnalytics	NOUN	mixedCaps	SamFile
+infer QQ accounts	NOUN	lowercase	Features
+SWAnalytics	NOUN	mixedCaps	SamFile
+receive	VERB	lowercase	Features
+process configuration files	NOUN	lowercase	Features
+remote	ADJ	lowercase	Features
+TajMahal	PROPN	mixedCaps	SamFile
+steal data	VERB	lowercase	Features
+KopiLuwak	PROPN	mixedCaps	SamFile
+exfiltrating files	VERB	lowercase	Features
+downloading files	VERB	lowercase	Features
+Trojan	NOUN	InitCap	SamFile
+upload	VERB	lowercase	Features
+download	NOUN	lowercase	Features
+execute files	VERB	lowercase	Features
+fingerprint target systems	NOUN	lowercase	Features
+PowerShell	PROPN	mixedCaps	SamFile
+get	VERB	lowercase	Features
+screenshots	NOUN	lowercase	Features
+HIGHNOON	PROPN	ALLCAPS	SamFile
+Winnti	VERB	InitCap	HackOrg
+2013	NOUN	numeric	Time
+significant conflation	ADJ	lowercase	Features
+BalkanRAT	PROPN	mixedCaps	SamFile
+control	NOUN	lowercase	Features
+BalkanDoor	PROPN	mixedCaps	SamFile
+backdoor	NOUN	lowercase	SamFile
+connect	VERB	lowercase	Features
+China Chopper	PROPN	InitCap	SamFile
+attackers	NOUN	lowercase	HackOrg
+control	NOUN	lowercase	Features
+China Chopper	PROPN	InitCap	SamFile
+command	NOUN	lowercase	Features
+tool	NOUN	lowercase	SamFile
+investigates	NOUN	lowercase	Features
+More_eggs malware	NOUN	InitCap	SamFile
+download	NOUN	lowercase	Features
+execution of files	NOUN	lowercase	Features
+cmd.exe	NOUN	lowercase	SamFile
+UNITEDRAKE NSA exploit	ADJ	ALLCAPS	Exp
+capture desired information	VERB	lowercase	Features
+transfer	NOUN	lowercase	Features
+files	NOUN	lowercase	SamFile
+Microsoft Office vulnerability	PROPN	InitCap	Exp
+CVE-2012-0158	NOUN	mixed	Exp
+take control	VERB	lowercase	Features
+Mimikatz	PROPN	InitCap	SamFile
+extract credentials	VERB	lowercase	Features
+exploit	VERB	lowercase	Exp
+Silence’s	NOUN	InitCap	HackOrg
+download backdoors	NOUN	lowercase	Features
+them	PRON	lowercase	SamFile
+using virtual private network services	VERB	lowercase	Features
+ensure anonymity	VERB	lowercase	Purp
+obfuscate criminal operations	VERB	lowercase	Purp
+Pony DLL	PROPN	InitCap	SamFile
+Vawtrak	PROPN	InitCap	SamFile
+data theft	NOUN	lowercase	Features
+connect	VERB	lowercase	Features
+command	NOUN	lowercase	Purp
+control (C2) server	NOUN	lowercase	Purp
+Pony	PROPN	InitCap	SamFile
+Vawtrak	PROPN	InitCap	SamFile
+steal data	VERB	lowercase	Purp
+RIPPER	PROPN	ALLCAPS	SamFile
+instantiate a timer	ADJ	lowercase	Features
+control the machine	NOUN	lowercase	Purp
+explaining how the cyber weapons	VERB	lowercase	Features
+highly classified intelligence	ADV	lowercase	Purp
+threat actors	NOUN	lowercase	HackOrg
+Sea Turtle	PROPN	InitCap	OffAct
+compromising entities	VERB	lowercase	Purp
+falsifying DNS	VERB	lowercase	Features
+UNITEDRAKE NSA exploit	ADJ	ALLCAPS	Exp
+capture desired information	VERB	lowercase	Features
+transfer	NOUN	lowercase	Features
+documents	NOUN	lowercase	SamFile
+CVE-2017-0199	NOUN	mixed	Exp
+deliver the payload	VERB	lowercase	Features
+files	NOUN	lowercase	SamFile
+Microsoft Office vulnerability	PROPN	InitCap	Exp
+CVE-2012-0158	NOUN	mixed	Exp
+take control	VERB	lowercase	Features
+Mimikatz	PROPN	InitCap	SamFile
+extract credentials	VERB	lowercase	Features
+exploit	VERB	lowercase	Exp
+Silence’s	NOUN	InitCap	HackOrg
+download backdoors	NOUN	lowercase	Features
+group	NOUN	lowercase	HackOrg
+Saudi Arabian	ADJ	InitCap	Area
+telecommunications	NOUN	lowercase	Idus
+defense industries	NOUN	lowercase	Idus
+threat group	NOUN	lowercase	HackOrg
+financial	ADJ	lowercase	Idus
+government	NOUN	lowercase	Idus
+energy	NOUN	lowercase	Idus
+chemical	PROPN	lowercase	Idus
+telecommunications	NOUN	lowercase	Idus
+Middle East	ADJ	InitCap	Area
+threat group	NOUN	lowercase	HackOrg
+financial	ADJ	lowercase	Idus
+government	NOUN	lowercase	Idus
+energy	NOUN	lowercase	Idus
+chemical	PROPN	lowercase	Idus
+telecommunications	NOUN	lowercase	Idus
+threat group	NOUN	lowercase	HackOrg
+Iranian Government	ADJ	InitCap	Org
+nation-state geopolitical	NOUN	lowercase	Idus
+economic	ADJ	lowercase	Idus
+group	NOUN	lowercase	HackOrg
+Middle East	ADJ	InitCap	Area
+financial	ADJ	lowercase	Idus
+government	NOUN	lowercase	Idus
+energy	NOUN	lowercase	Idus
+chemical	PROPN	lowercase	Idus
+telecommunications	NOUN	lowercase	Idus
+HELIX KITTEN	NOUN	ALLCAPS	HackOrg
+Iranian-based	PROPN	InitCap	Area
+group	NOUN	lowercase	HackOrg
+late 2015	ADV	lowercase	Time
+aerospace	NOUN	lowercase	Idus
+energy	NOUN	lowercase	Idus
+financial	ADJ	lowercase	Idus
+government	NOUN	lowercase	Idus
+hospitality	NOUN	lowercase	Idus
+telecommunications business	NOUN	lowercase	Idus
+South Korean	ADJ	InitCap	Area
+companies	NOUN	lowercase	Org
+video game and software development industry	NOUN	lowercase	Idus
+Suckfly	NOUN	InitCap	OffAct
+attacks	NOUN	lowercase	OffAct
+government organizations	NOUN	lowercase	Org
+information technology services	NOUN	lowercase	Idus
+government	NOUN	lowercase	Idus
+India	PROPN	InitCap	Area
+information technology	NOUN	lowercase	Idus
+IT	PRON	ALLCAPS	Idus
+targeted attack	VERB	lowercase	OffAct
+CTU	PROPN	ALLCAPS	SecTeam
+TG-3390	NOUN	mixed	HackOrg
+manufacturing	VERB	lowercase	Idus
+aerospace	NOUN	lowercase	Idus
+defense contractors	NOUN	lowercase	Org
+automotive	ADJ	lowercase	Idus
+technology	NOUN	lowercase	Idus
+energy	NOUN	lowercase	Idus
+pharmaceuticals	NOUN	lowercase	Idus
+education	NOUN	lowercase	Idus
+legal	ADJ	lowercase	Idus
+SWCs	NOUN	mixedCaps	Tool
+TG-3390	NOUN	mixed	HackOrg
+TG-3390	NOUN	mixed	HackOrg
+campaign	NOUN	lowercase	OffAct
+SWCs	NOUN	mixedCaps	OffAct
+CTU	PROPN	ALLCAPS	SecTeam
+manufacturing	VERB	lowercase	Idus
+aerospace	NOUN	lowercase	Idus
+defense contractors	NOUN	lowercase	Org
+automotive	ADJ	lowercase	Idus
+technology	NOUN	lowercase	Idus
+energy	NOUN	lowercase	Idus
+pharmaceuticals	NOUN	lowercase	Idus
+education	NOUN	lowercase	Idus
+legal	ADJ	lowercase	Idus
+CTU	PROPN	ALLCAPS	SecTeam
+TG-3390	NOUN	mixed	HackOrg
+defense technology	NOUN	lowercase	Purp
+capability intelligence	NOUN	lowercase	Purp
+political intelligence	ADJ	lowercase	Idus
+governments	NOUN	lowercase	Idus
+2016	NOUN	numeric	Time
+SWC	PROPN	ALLCAPS	Tool
+international industry organization	PROPN	lowercase	Org
+aerospace	NOUN	lowercase	Idus
+academic	ADJ	lowercase	Idus
+media	NOUN	lowercase	Idus
+technology	NOUN	lowercase	Idus
+government	NOUN	lowercase	Idus
+utilities organizations	NOUN	lowercase	Org
+BRONZE UNION activity	NOUN	ALLCAPS	OffAct
+U.S.-based defense	ADJ	mixedCaps	Idus
+aerospace technologies	NOUN	lowercase	Idus
+combat processes	NOUN	lowercase	Idus
+naval defense systems	ADJ	lowercase	Idus
+Leafminer	PROPN	InitCap	HackOrg
+watering hole	VERB	lowercase	OffAct
+network services	NOUN	lowercase	Way
+brute-force login	ADJ	lowercase	Way
+Leafminer	PROPN	InitCap	HackOrg
+Process Doppelganging	NOUN	InitCap	Way
+September 15	PROPN	InitCap	Time
+19 , 2017	NOUN	numeric	Time
+Proofpoint	NOUN	InitCap	SecTeam
+spearphishing emails	VERB	lowercase	Way
+group	NOUN	lowercase	HackOrg
+US	PROPN	ALLCAPS	Area
+shipbuilding company	VERB	lowercase	Org
+US	PROPN	ALLCAPS	Area
+military	NOUN	lowercase	Idus
+August 2	PROPN	InitCap	Time
+actor	NOUN	lowercase	HackOrg
+spearphishing emails	VERB	lowercase	Way
+defense contractors	NOUN	lowercase	Org
+August 2	PROPN	InitCap	Time
+Leviathan	PROPN	InitCap	HackOrg
+spearphishing emails	VERB	lowercase	Way
+defense contractors	NOUN	lowercase	Org
+Leviathan	PROPN	InitCap	HackOrg
+Microsoft Excel documents	PROPN	InitCap	Way
+US	PROPN	ALLCAPS	Area
+universities	NOUN	lowercase	Idus
+military	NOUN	lowercase	Idus
+Navy	PROPN	InitCap	Org
+Spring Dragon group	NOUN	InitCap	HackOrg
+spearphish exploits	ADJ	lowercase	Exp
+strategic web compromises	ADJ	lowercase	Way
+watering holes attack	VERB	lowercase	OffAct
+November 10 , 2015	PROPN	InitCap	Time
+threat actors	NOUN	lowercase	HackOrg
+spear-phishing email	NOUN	lowercase	Way
+individual	NOUN	lowercase	Org
+November 10 , 2015	PROPN	InitCap	Time
+Lotus Blossom	PROPN	InitCap	HackOrg
+spear-phishing email	NOUN	lowercase	Way
+individual	NOUN	lowercase	Org
+Magic Hound attacks	PROPN	InitCap	OffAct
+Excel	PROPN	InitCap	Way
+Word documents	NOUN	InitCap	Way
+Magic Hound campaign	PROPN	InitCap	OffAct
+Word	NOUN	InitCap	Way
+Excel	PROPN	InitCap	Way
+MagicHound.Rollover	PROPN	mixedCaps	Tool
+campaign	NOUN	lowercase	OffAct
+APT32	NOUN	mixed	HackOrg
+social engineering emails	ADJ	lowercase	Way
+Microsoft ActiveMime file	PROPN	InitCap	SamFile
+deliver malicious macros	VERB	lowercase	Purp
+APT33	NOUN	mixed	HackOrg
+spear-phishing	NOUN	lowercase	Way
+phishing module	VERB	lowercase	Way
+attack	NOUN	lowercase	OffAct
+APT33	NOUN	mixed	HackOrg
+spear-phishing emails	NOUN	lowercase	Way
+aviation industry	NOUN	lowercase	Idus
+emails	NOUN	lowercase	Way
+recruitment-themed lures	NOUN	lowercase	Way
+HTML application	NOUN	ALLCAPS	Tool
+HTA	PROPN	ALLCAPS	SamFile
+APT34	NOUN	mixed	HackOrg
+compromised accounts	VERB	lowercase	Tool
+spear-phishing	NOUN	lowercase	Way
+APT33	NOUN	mixed	HackOrg
+public and non-public tools	NOUN	lowercase	Tool
+spear-phishing	NOUN	lowercase	Way
+phishing module	VERB	lowercase	Way
+ALFA TEaM Shell	PROPN	ALLCAPS	Tool
+publicly available web shell	ADV	lowercase	Tool
